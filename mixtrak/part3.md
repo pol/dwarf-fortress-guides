@@ -76,7 +76,7 @@ of it is doing:
 -   In this main level, there are a few large, 11 x 11 rooms with
     smaller storage attached, which makes it easy to create “districts”
     devoted to a particular industries and [organised processing
-    chains](Workshop_design "wikilink").
+    chains](http://dwarffortresswiki.org/index.php/Workshop_design "wikilink").
 -   The lighter-grey tiles in the gaps between rooms are actually
     plumbing ducts, so remember where they go but don't mine them out
     just now. We'll soon divert some water from the river for farms,
@@ -102,7 +102,7 @@ of it is doing:
     lockable doors (and eventually raising bridges).
 -   Thanks to the generous gaps above and below, there's also provision
     for [Cleaning\#Dwarven
-    Bathtubs](Cleaning#Dwarven_Bathtub "wikilink") - more on these
+    Bathtubs](http://dwarffortresswiki.org/index.php/Cleaning#Dwarven_Bathtub "wikilink") - more on these
     later.
 
 (Before you dive in, be aware that while your miners are doing this the
@@ -115,7 +115,7 @@ got stone on this level, then it's probably easiest to keep digging
 until you hit some, then lay out this pattern on the stone layer. As the
 miners dig, they'll unearth a few interesting gems and bits of ore, but
 for now, just leave them where they fall. Due to some quirks of
-[Miner\#Mining behaviour](Miner#Mining_behaviour "wikilink"), you'll
+[Miner\#Mining behaviour](http://dwarffortresswiki.org/index.php/Miner#Mining_behaviour "wikilink"), you'll
 actually get individual rooms completed more quickly if you only
 designate a few at a time. Personally, I'd rather sit on a minotaur's
 horn than designate tiny areas so frequently, but maybe at least do one
@@ -148,7 +148,7 @@ chasing veins of ores and gems.
 So, while your miners are digging away, what about the rest of your
 frontiersdwarves? First, let's talk about securing that entrance. We're
 going to need stone blocks for walls and a roof around the entrance, and
-only raising [bridges](Bridge "wikilink") will stop building destroyers
+only raising [bridges](http://dwarffortresswiki.org/index.php/Bridge "wikilink") will stop building destroyers
 in their tracks, for which we'll need mechanisms. In addition, dragons
 can burn down stone bridges and mechanisms, so you'll use one of your
 iron ingots for the bridge, and make the other into a fire-proof
@@ -197,34 +197,33 @@ decent reserves.
 There's a few more changes you need to make (stockpile management is
 complex). First, not all stones are appropriate for crafting in these
 workshops. Have a look at all the different types of
-[Stone](Stone "wikilink") your miners have encountered, and individually
+[Stone](http://dwarffortresswiki.org/index.php/Stone "wikilink") your miners have encountered, and individually
 look them up on the wiki. In addition, read [The Non-Dwarf's Guide to
-Rock](The_Non-Dwarf's_Guide_to_Rock "wikilink"). In this stockpile, you
+Rock](http://dwarffortresswiki.org/index.php/The_Non-Dwarf's_Guide_to_Rock "wikilink"). In this stockpile, you
 should only enable stones which are present on your map and which
 *don't* fall into the following categories (here begins an educational
 but brief detour into the subject of satisfying dwarven preferences):
 
--   [Ore](Ore "wikilink"): later, we'll smelt these into metal bars
--   [Economic stone](Economic_stone "wikilink"): this category includes
-    [Flux](Flux "wikilink") stones such as marble (required for making
+-   [Ore](http://dwarffortresswiki.org/index.php/Ore "wikilink"): later, we'll smelt these into metal bars
+-   [Economic stone](http://dwarffortresswiki.org/index.php/Economic_stone "wikilink"): this category includes
+    [Flux](http://dwarffortresswiki.org/index.php/Flux "wikilink") stones such as marble (required for making
     steel) and fuel sources such as lignite
--   Stone which is used to make [Gypsum
-    plaster](Gypsum_plaster "wikilink")
+-   Stone which is used to make [Gypsum plaster](http://dwarffortresswiki.org/index.php/Gypsum_plaster "wikilink")
 -   “Other Stone” which is too heavy and inefficient to haul: cinnabar,
     pitchblende and cobaltite. Later, we can use these as ammo in
     catapults and stone-fall traps
 -   Stones which are otherwise unremarkable (again, under “Other Stone”)
     but which should be reserved for when you have highly-skilled
     craftsdwarves better able to satisfy your citizens'
-    [Preferences](Preference "wikilink"), by two criteria:
+    [Preferences](http://dwarffortresswiki.org/index.php/Preference "wikilink"), by two criteria:
     -   Any stone can be a dwarf's favourite, but some are quite rare.
         Anything in the table at [Stone\#Other
-        Stone](Stone#Other_Stone "wikilink") is [somewhat rare
-        ](Vein "wikilink") (not forming entire layers); stones which
+        Stone](http://dwarffortresswiki.org/index.php/Stone#Other_Stone "wikilink") is [somewhat rare
+        ](http://dwarffortresswiki.org/index.php/Vein "wikilink") (not forming entire layers); stones which
         lack a “V” or a “L” in the “Found in” column are particularly
         rare.
     -   Similarly, stones which are both (somewhat) rare and have a rare
-        [colour](Color#Material_By_Color "wikilink"), since dwarves can
+        [colour](http://dwarffortresswiki.org/index.php/Color#Material_By_Color "wikilink"), since dwarves can
         also have a favourite colour. This category includes:
         -   Dark red: Bauxite (large clusters). Colour substitutes
             include kaolinite (but better to use that for porcelain),
@@ -265,7 +264,7 @@ but brief detour into the subject of satisfying dwarven preferences):
     find it, but you may also wish to use heavier materials for now and
     save your jet for more skilled craftsdwarves which will be able to
     do the material justice. More mature fortresses with ordinary
-    [Clay](Clay "wikilink") (not fire clay) on the map have an
+    [Clay](http://dwarffortresswiki.org/index.php/Clay "wikilink") (not fire clay) on the map have an
     alternative, which is to make earthenware pots (essentially the same
     weight); these are more costly to produce, however, since you need a
     potter, a glazer, some glazing material, a pottery kiln, and one
@@ -342,7 +341,7 @@ These stockpiles cover all the products of the mason's workshop, the
 mechanic's workshop, and all the stone items you *should* be producing
 from a craftsdwarf's workshop in the short-medium term. There's one
 section of the “Finished goods” stockpile in particular which is a bit
-of a grab-bag of various classes of objects: [Tools](Tools "wikilink").
+of a grab-bag of various classes of objects: [Tools](http://dwarffortresswiki.org/index.php/Tools "wikilink").
 For now, we deal with it by avoiding the manufacture of anything except
 a nest box or two. Later, I discuss easy ways of managing this
 heterogeneous category by ensuring that different tools are made from
@@ -351,14 +350,14 @@ furniture stockpiles, you should disallow all materials other than the
 stone(s) permitted in your stone stockpile. Make sure you still allow
 all quality levels (both core and total), though!
 
-Efficient placement of [workshops](Workshop "wikilink") and
-[stockpiles](Stockpile "wikilink") is crucial because your list of jobs
+Efficient placement of [workshops](http://dwarffortresswiki.org/index.php/Workshop "wikilink") and
+[stockpiles](http://dwarffortresswiki.org/index.php/Stockpile "wikilink") is crucial because your list of jobs
 will usually far exceed your available dwarf-power. Logical and
 highly-specific compartmentalisation of industry process-chains is also
 essential to understand and control what is being produced from what,
 and where things are being stored. you should
-[read](Workshop_design "wikilink") about
-[this](Stockpile_design "wikilink").
+[read](http://dwarffortresswiki.org/index.php/Workshop_design "wikilink") about
+[this](http://dwarffortresswiki.org/index.php/Stockpile_design "wikilink").
 
 Don't immediately queue up a bunch of jobs, because we'll need to wait
 until the stone stockpile is fairly well-stocked if we're to avoid
@@ -434,7 +433,7 @@ piece of stone makes four blocks.
 This fact is behind one of the arguments *against* using stone blocks:
 you'll soon have an over-abundance of stone, so using the raw stone will
 help de-clutter your fortress. The other argument is defence. If I'm
-understanding [climbing](Climber "wikilink") correctly, it's impossible
+understanding [climbing](http://dwarffortresswiki.org/index.php/Climber "wikilink") correctly, it's impossible
 to climb walls made from smoothed natural stone, but block walls *can*
 be climbed. By all means, if you find these arguments persuasive, simply
 use natural stone in your building projects, or perhaps at strategic
@@ -452,7 +451,7 @@ invader…
 You Shall Not Pass
 ------------------
 
-Building the [Bridge](Bridge "wikilink") itself is actually pretty easy.
+Building the [Bridge](http://dwarffortresswiki.org/index.php/Bridge "wikilink") itself is actually pretty easy.
 Follow the menu options to make a bridge which is three tiles long (so
 wagons can fit through), one tile wide, and raises to the east. Place it
 in the gap and choose “iron bar” as the building material. You
@@ -532,12 +531,12 @@ want buckets, splints and crutches, and cages; then there's charcoal and
 ash, siege equipment, pump components and more…
 
 Unlike stone, there are [not
-many](Wood_industry#_A_Log_Is_A_Log "wikilink") special kinds of wood
+many](http://dwarffortresswiki.org/index.php/Wood_industry#_A_Log_Is_A_Log "wikilink") special kinds of wood
 you need to worry about at this point in the game. One consideration is
 to reserve the unusually dense bloodthorn and glumprong for ballista
 arrows, so disable those from the wood stockpile. And nether-cap wood
 has the strange property of maintaining a constant freezing temperature
-(exactly ten thousand degrees [Urist](Temperature "wikilink")), which
+(exactly ten thousand degrees [Urist](http://dwarffortresswiki.org/index.php/Temperature "wikilink")), which
 obviously can be helpful around magma or for fire-proofing your booze
 stockpile, but there's no shortage of other magma-safe materials so I
 wouldn't bother disabling this. For now, in any case, you're unlikely to
@@ -546,7 +545,7 @@ didn't embark there, *right*?) an the other two are found in the deep
 caverns.
 
 That said, you may be lucky enough to have access to one of the three
-[particularly low-density species](Wood "wikilink"); feather tree,
+[particularly low-density species](http://dwarffortresswiki.org/index.php/Wood "wikilink"); feather tree,
 candlenut, or kapok. If so, it's probably worth setting up a dedicated
 stockpile and workshop (drawing on the lessons from setting up the stone
 industry) to manufacture bins and barrels and take advantage of the
@@ -650,7 +649,7 @@ Next, queue up about ten barrels. Stone pots are more weight-efficient
 for general hauling, but barrels are absolutely required for (for
 example) dyer's shops and asheries, so it's good to have a few lying
 around. In the stockpile menu, set a
-[reserve](Using_bins_and_barrels#Reserving_containers_for_other_tasks "wikilink")
+[reserve](http://dwarffortresswiki.org/index.php/Using_bins_and_barrels#Reserving_containers_for_other_tasks "wikilink")
 of about ten barrels; this will set them aside for those purposes - or
 brewing. That means if your supply of stone pots runs low (as it often
 does in the early fort), your barrels may *still* all get used for
@@ -679,7 +678,7 @@ are renewable, you shouldn't harbour any concerns about extirpating all
 the apple trees and missing out on delicious cider (and there should be
 enough other plants for your herbalist to gather that you won't be
 reliant on fruit and nuts from trees). Plenty of time for that later -
-the [elves](Diplomat#Elven_Diplomats "wikilink") haven't heard of your
+the [elves](http://dwarffortresswiki.org/index.php/Diplomat#Elven_Diplomats "wikilink") haven't heard of your
 fortress yet, so make the most of it…
 
 Victuals
@@ -687,8 +686,8 @@ Victuals
 
 Dwarves have hearty appetites for food and (especially) booze. Let's
 talk rationing: dwarves require about two units of
-[Food](Food "wikilink") and five of [Alcohol](Alcohol "wikilink") per
-season, and the [default embark](Embark#Supplies "wikilink") loadout
+[Food](http://dwarffortresswiki.org/index.php/Food "wikilink") and five of [Alcohol](http://dwarffortresswiki.org/index.php/Alcohol "wikilink") per
+season, and the [default embark](http://dwarffortresswiki.org/index.php/Embark#Supplies "wikilink") loadout
 gives you 60 units of alcohol (60 / 5 / 7 = 1.7143 seasons) and 45 units
 of food (45 / 2/ 7 = 3.2143 seasons). Clearly, it's best not to tarry
 setting up a food industry.
@@ -727,7 +726,7 @@ overcrowded and start attacking one another.
 
 ### Watering the Farms
 
-While there's a dizzying array of outdoor [Crops](Crop "wikilink"), our
+While there's a dizzying array of outdoor [Crops](http://dwarffortresswiki.org/index.php/Crop "wikilink"), our
 indoor farms are much simpler and easier to understand, so we'll start
 there. Farms are also incredibly productive and located safely indoors,
 but unlike gathering wild plants, they require a little infrastructure
@@ -746,11 +745,11 @@ to set it up early on.
 There are two main considerations when piping fresh water into your
 fortress: flooding and security. We will deal with both by a combination
 of floodgates and bridges, but it's probably a good idea to go read up
-about [Pressure](Pressure "wikilink"). The project starts near your
+about [Pressure](http://dwarffortresswiki.org/index.php/Pressure "wikilink"). The project starts near your
 river (in which category I include brooks) - you did embark on a map
 with a river, didn't you? If not, you have two (possibly three) choices:
 pipe in water from murky pools on the surface (in which case you should
-read about [Water\#Contamination](Water#Contamination "wikilink")), pump
+read about [Water\#Contamination](http://dwarffortresswiki.org/index.php/Water#Contamination "wikilink")), pump
 it up from the first layer of the caverns (but be bloody careful), or
 melt ice (if you have it). Those are beyond the scope of this guide, but
 good luck!
@@ -813,7 +812,7 @@ stone industry, barely visible along the top edge):
 That's the internals done. But before we connect it up to the river, you
 should install a master floodgate (essentially the “mains water tap” to
 the whole fortress) and some farm floodgates. Confusingly, in Dwarf
-Fortress floodgates are [denoted](Tilesets "wikilink") by “`X`” - the
+Fortress floodgates are [denoted](http://dwarffortresswiki.org/index.php/Tilesets "wikilink") by “`X`” - the
 same character used for up.down stairs. To differentiate them, in these
 diagrams the floodgates will be shown in boldface text. Get your mason
 to make five stone floodgates for these, and make sure you have plenty
@@ -882,7 +881,7 @@ ramp, denoted as `G` in this diagram:
 
 This grate will admit water but exclude items and
 (non-building-destroyer) creatures. It has to be a floor grate as
-there's a [bug](Grate#Bugs "wikilink") where flowing water will
+there's a [bug](http://dwarffortresswiki.org/index.php/Grate#Bugs "wikilink") where flowing water will
 occasionally push creatures through wall grates. Connect it to a new
 lever next to the fortress water mains floodgate lever, and remember to
 leave a new note.
@@ -910,7 +909,7 @@ filling up, you should pave over the two holes in the surface of the
 shaft by constructing stone block floors - one above the `!`, and the
 other above the up-ramp two tiles to the right.
 
-Keep an eye on the water [Water\#Depth](Water#Depth "wikilink") on this
+Keep an eye on the water [http://dwarffortresswiki.org/index.php/Water\#Depth](Water#Depth "wikilink") on this
 lower (farm) level. Water in Dwarf Fortress is actually fairly viscous
 and slow-flowing, so you may have a couple of tiles of 2/7 near the
 shaft but still have plenty of dry tiles in the corners of the rooms.
@@ -953,14 +952,14 @@ are too fiddly and not urgent:
     labour and a supply of empty bags
 -   Some seeds can be milled into a paste (e.g. rock nuts) and then
     (olives can skip straight to this next step) pressed to yield
-    [Oil](Oil "wikilink"), which can be cooked or made into soap, and a
-    dry [cake](Press_cake "wikilink"), which can be cooked. This
+    [Oil](http://dwarffortresswiki.org/index.php/Oil "wikilink"), which can be cooked or made into soap, and a
+    dry [cake](http://dwarffortresswiki.org/index.php/Press_cake "wikilink"), which can be cooked. This
     requires milling, in addition to jugs and screw presses and
     associated labours, so we'll skip it for now.
 -   Some plants can be processed into thread for the textile industry or
     slurry for the paper industry. That will crop up (heh) later in this
     guide.
--   [Valley herbs](Valley_herb "wikilink") can be processed into golden
+-   [Valley herbs](http://dwarffortresswiki.org/index.php/Valley_herb "wikilink") can be processed into golden
     salve, which is a useless but high-value trade commodity, providing
     you have glass vials available. You don't, and that doesn't matter;
     cook them instead.
@@ -984,7 +983,7 @@ which possibly overlap for each crop:
 -   Cooking of the seeds - only for outdoor (gathered) plants!
 -   Special case: sweet pods can produce a large amount of cooking
     ingredients by being processed into “dwarven syrup”. This is
-    [buggy](Dwarven_syrup#Bugs "wikilink"), but we have a simple
+    [buggy](http://dwarffortresswiki.org/index.php/Dwarven_syrup#Bugs "wikilink"), but we have a simple
     workaround which will also allow us to cook booze.
 
 ### Dirt farmer
@@ -993,16 +992,16 @@ There's a vast diversity of outdoor plants you might encounter, so for
 starters we're going to focus on the six indoor, farmed plants. The
 following table lists the plants, their growing season, and what we will
 be using them for (for much more info, see the tables on the
-[Crop](Crop "wikilink") page).
+[Crop](http://dwarffortresswiki.org/index.php/Crop "wikilink") page).
 
-  Plant               Growing season            Early-fort uses
-  ------------------- ------------------------- -----------------------------------------------------------
-  **Dimple cups**     All seasons               Nothing: plant all seeds, wait for textile industry
-  **Pig tails**       Summer & autumn           Brew dwarven ale
-  **Cave wheat**      Summer & autumn           Brew into dwarven beer
-  **Sweet pods**      Spring & summer           Brew into dwarven rum; process to barrel as dwarven syrup
-  **Quarry bushes**   Spring, summer & autumn   Nothing; plant all seeds and wait for textile industry
-  **Plump helmets**   All seasons               Brewing into dwarven wine (and occasionally eating raw)
+  Plant               | Growing season            | Early-fort uses
+  ------------------- | ------------------------- | -----------------------------------------------------------
+  **Dimple cups**     | All seasons               | Nothing: plant all seeds, wait for textile industry
+  **Pig tails**       | Summer & autumn           | Brew dwarven ale
+  **Cave wheat**      | Summer & autumn           | Brew into dwarven beer
+  **Sweet pods**      | Spring & summer           | Brew into dwarven rum; process to barrel as dwarven syrup
+  **Quarry bushes**   | Spring, summer & autumn   | Nothing; plant all seeds and wait for textile industry
+  **Plump helmets**   | All seasons               | Brewing into dwarven wine (and occasionally eating raw)
 
 Go to the z-menu and select “Kitchen” to make sure none of these crops
 are allowed to be cooked, and all are permitted for brewing.
@@ -1015,12 +1014,12 @@ like so:
 
 We're going to have a different seasonal rotation in each one.
 
-  Plot     Summer     Autumn       Winter          Spring
-  -------- ---------- ------------ --------------- -------------
-  **P1**   Pig tail   Pig tail     Dimple cups     Sweet pod
-  **P2**   Pig tail   Cave wheat   Dimple cups     Quarry bush
-  **P3**   Pig tail   Pig tail     Plump helmets   Sweet pod
-  **P4**   Pig tail   Cave wheat   Plump helmets   Quarry bush
+  Plot     | Summer     | Autumn       | Winter          | Spring
+  -------- | ---------- | ------------ | --------------- | -------------
+  **P1**   | Pig tail   | Pig tail     | Dimple cups     | Sweet pod
+  **P2**   | Pig tail   | Cave wheat   | Dimple cups     | Quarry bush
+  **P3**   | Pig tail   | Pig tail     | Plump helmets   | Sweet pod
+  **P4**   | Pig tail   | Cave wheat   | Plump helmets   | Quarry bush
 
 You want extra pig tails for the textile and paper industries later on.
 This growing pattern won't need much tinkering with as the fortress
@@ -1097,7 +1096,7 @@ distributed rings and feasts to the sea-Geats.
 
 Place a door at the entrance (get your mason to make one if you don't
 have any spare) and we'll use one of the tables to designate it as a
-[Dining room](Dining_room "wikilink"). Make sure the room fills the
+[Dining room](http://dwarffortresswiki.org/index.php/Dining_room "wikilink"). Make sure the room fills the
 whole 11 x 11 area. Set the “Meeting hall” option to “Yes”, so your
 dwarves have somewhere to socialise, including your expedition leader
 hosting the caravan diplomats.
@@ -1140,7 +1139,7 @@ to set things up for your herbalist.
 ### Eat Your Greens
 
 Raw food is all well and good, but [Cook\#Prepared
-Meals](Cook#Prepared_Meal "wikilink") are better, though they require at
+Meals](http://dwarffortresswiki.org/index.php/Cook#Prepared_Meal "wikilink") are better, though they require at
 least one solid ingredient. Looking at the list of indoor crops, then, a
 clear limitation emerges - excluding seeds (which we need for farming)
 and processing plants to bags (including milling), plump helmets are the
@@ -1165,7 +1164,7 @@ present on your map. Unfortunately this is a little tedious. I'd
 recommend designating plant-gathering over a large area surrounding your
 fort (say, 66 x 66, at priority level 5 or 6) and then looing at every
 plant thus highlighted. Examine every plant and consult the
-[wiki](Crop "wikilink"). Anything which can be brewed, enable that in
+[wiki](http://dwarffortresswiki.org/index.php/Crop "wikilink"). Anything which can be brewed, enable that in
 the feeder stockpile for your still. Anything which cannot be brewed
 should be cookable and/or edible raw - write these down. You'll need the
 list soon. Then, examine all the trees on the map (or at least near the
