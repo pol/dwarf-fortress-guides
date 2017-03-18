@@ -67,7 +67,7 @@ at first (you should have seen the beehive fort), but I'll explain the
 purpose of each feature and once you understand it, it's easier to work
 with.
 
-![](1_middle_layer.png "1_middle_layer.png")
+![](images/1_middle_layer.png "1_middle_layer.png")
 
 As you already know, it's based around a central spiral ramp, and the
 storage room you've created is right at the centre. Here's what the rest
@@ -124,7 +124,7 @@ of the large corner rooms in this fashion.
 Once the miners have finished this layer, go ahead and mine out the
 follow pattern on the levels above and below:
 
-![](2_upper_lower_layers.png "2_upper_lower_layers.png")
+![](images/2_upper_lower_layers.png "2_upper_lower_layers.png")
 
 That's the upper level, immediately above the middle layer you just dug
 out. The pattern won't quite be identical in the upper and lower layers:
@@ -165,7 +165,7 @@ handle, so when one of the larger rooms in the mid-layer is finished,
 build a some relevant workshops and surround them with a stone
 stockpile. My preferred layout is as follows:
 
-![](3_stone_workshops.png "3_stone_workshops.png")
+![](images/3_stone_workshops.png "3_stone_workshops.png")
 
 This diagram shows the upper-left quadrant of the middle layer.
 
@@ -406,7 +406,7 @@ suspend the workshop jobs until they've finished the other work.
 
 What will we need all those stone blocks for? Well, I'll show you:
 
-![](4_entrance_wall.png "4_entrance_wall.png")
+![](images/4_entrance_wall.png "4_entrance_wall.png")
 
 That, you may remember, is the surface entrance to your fortress
 (remember, the light grey tiles are just a reminder about where plumbing
@@ -785,7 +785,7 @@ Let's start digging the pipes from the inside of the fortress. On the
 connect the medium-sized rooms to one another and the plumbing shaft,
 and dig out the plumping shaft using up/down stairs like so:
 
-![](5_farm_irrigation.png "5_farm_irrigation.png")
+![](images/5_farm_irrigation.png "5_farm_irrigation.png")
 
 We're using the lower level for farming because there's no drainage, so
 we can easily cover the floor with water.
@@ -796,18 +796,18 @@ levels above and below if necessary - such as right now, as your miners
 continue digging upwards through the next level (the middle fortress
 layer; note there's no connection yet to any of the surrounding rooms):
 
-![](6_middle_plumbing.png "6_middle_plumbing.png")
+![](images/6_middle_plumbing.png "6_middle_plumbing.png")
 
 And the next (upper fortress layer):
 
-![](7_upper_plumping.png "7_upper_plumping.png")
+![](images/7_upper_plumping.png "7_upper_plumping.png")
 
 Now, using regular mining designations (i.e. not stairs), extend the
 plumbing shaft from the inner corner to the edge of your fortress
 blueprint on this level (and wave hello as we go past our old friend the
 stone industry, barely visible along the top edge):
 
-![](8_mains_water_pipe.png "8_mains_water_pipe.png")
+![](images/8_mains_water_pipe.png "8_mains_water_pipe.png")
 
 That's the internals done. But before we connect it up to the river, you
 should install a master floodgate (essentially the “mains water tap” to
@@ -821,7 +821,7 @@ to make five stone floodgates for these, and make sure you have plenty
 The mains tap goes here, with an accompanying lever in the central
 spiral ramp, so build them and connect them up:
 
-![](9_mains_water_floodgate.png "9_mains_water_floodgate.png")
+![](images/9_mains_water_floodgate.png "9_mains_water_floodgate.png")
 
 Remember to bring up the otes menu and write a note on the new lever to
 the effect of “Internal fortress water mains floodgate”.
@@ -835,7 +835,7 @@ The farm floodgates go on the lower level, in the connections between
 medium-sized rooms and with the plumbing shaft. In addition, get your
 mason to build 4 stone doors (`d`) for these rooms:
 
-![](10_farm_irrigation_floodgates.png "10_farm_irrigation_floodgates.png")
+![](images/10_farm_irrigation_floodgates.png "10_farm_irrigation_floodgates.png")
 
 To make things easier to remember, it might seem reasonable to place the
 lever right next to the floodgates.
@@ -853,12 +853,12 @@ farm floodgate in the corridor on the level above (i.e. the middle
 fortress layer), connect up the four floodgates, and label it
 appropriately:
 
-![](11_irrigation_lever.png "11_irrigation_lever.png")
+![](images/11_irrigation_lever.png "11_irrigation_lever.png")
 
 Now you're ready to dig the external component. I'll use a side-view
 diagram to show this:
 
-![](12_external_water_shaft_side.png "12_external_water_shaft_side.png")
+![](images/12_external_water_shaft_side.png "12_external_water_shaft_side.png")
 
 In this diagram, the light-grey tiles are the last bit of internal
 piping you dug (in the upper fortress layer) before installing those
@@ -877,7 +877,7 @@ Your miners should be able to exit the shaft now. Get your mason to make
 a grate and install it as a *floor* grate on the tile above the internal
 ramp, denoted as `G` in this diagram:
 
-![](13_water_shaft_grate.png "13_water_shaft_grate.png")
+![](images/13_water_shaft_grate.png "13_water_shaft_grate.png")
 
 This grate will admit water but exclude items and
 (non-building-destroyer) creatures. It has to be a floor grate as
@@ -889,7 +889,7 @@ leave a new note.
 Next, build a single-tile iron bridge between the `!` and the up-ramp
 which retracts to the east:
 
-![](14_water_shaft_bridge.png "14_water_shaft_bridge.png")
+![](images/14_water_shaft_bridge.png "14_water_shaft_bridge.png")
 
 Connect it to a new lever next to the grate lever, and remember to use
 your last iron mechanism for the bridge-side component. Create a new
@@ -1010,7 +1010,7 @@ Time to start setting up your farming area. In the muddied medium rooms,
 build four 4 x 5 plots (you may need to wait for the water to evaporate)
 like so:
 
-![](15_farms.png "15_farms.png")
+![](images/15_farms.png "15_farms.png")
 
 We're going to have a different seasonal rotation in each one.
 
@@ -1028,7 +1028,7 @@ expands - we'll just be able to use the plants in different ways.
 In the inside corner of the large 11 x 11 room, designate a 3 x 4 food
 stockpile and restrict it to just allow the seeds for these six plants.
 
-![](16_seeds.png "16_seeds.png")
+![](images/16_seeds.png "16_seeds.png")
 
 Don't forget to turn off the special option “Prepared food” by pressing
 from the stockpile's options, and also set the max barrel in this
@@ -1045,7 +1045,7 @@ plants, a brewery, a farmer's workshop (for manufacturing dwarven syrup)
 and a stockpile for barrels and large pots. We'll also leave some space
 for future milling operations. The setup looks like this:
 
-![](17_still_farmers_workshop.png "17_still_farmers_workshop.png")
+![](images/17_still_farmers_workshop.png "17_still_farmers_workshop.png")
 
 -   `w`: Farmer's workshop
 -   `l`: Still
@@ -1089,7 +1089,7 @@ should have made four tables and chairs by now - arrange them, pairing
 one table orthogonally adjacent to one chair, any way you wish. I like
 the classic long-bench design, like so:
 
-![](18_dining_benches.png "18_dining_benches.png")
+![](images/18_dining_benches.png "18_dining_benches.png")
 
 Ah. Reminds me of the great mead-hall Heorot, where generous Hrothgar
 distributed rings and feasts to the sea-Geats.
@@ -1106,7 +1106,7 @@ so let's place the meals nearby. Make a food stockpile (`f1`) in the
 medium room before the corridor, and disallow everything except prepared
 meals:
 
-![](19_prepared_meal_pile.png "19_prepared_meal_pile.png")
+![](images/19_prepared_meal_pile.png "19_prepared_meal_pile.png")
 
 Unlike when enjoying a leisurely sit-down meal, parched dwarves tend to
 be a bit more desperate. They'll simply fetch a mug, dunk it in the
@@ -1124,7 +1124,7 @@ max bins set to zero, and set to take from the mug stockpile) which
 covers the remaining 9 x 9 area. Then cut away the corner squares so
 there's only a 1-tile wide plus-shape remaining, like so:
 
-![](20_booze_mugs_pile.png "20_booze_mugs_pile.png")
+![](images/20_booze_mugs_pile.png "20_booze_mugs_pile.png")
 
 There. Now there's space for another three long benches, bringing the
 hall's total capacity to 32. Since your dwarves don't all eat and drink
@@ -1195,7 +1195,7 @@ it's easiest just to turn off the seeds for the indoor plants); and set
 max barrel for this stockpile to zero. The final layout should look like
 this:
 
-![](21_kitchen_piles.png "21_kitchen_piles.png")
+![](images/21_kitchen_piles.png "21_kitchen_piles.png")
 
 Set all three stockpiles to give to the kitchen.
 
