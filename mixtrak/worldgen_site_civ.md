@@ -5,13 +5,12 @@ Worldgen, Site and Civ Choice
 -----------------------------
 
 This step is rather straightforward, and well-covered in the wiki.
-First, read the article on basic [World
-Generation](World_Generation "wikilink"). Then, create your world, using
+First, read the article on basic [World Generation](http://dwarffortresswiki.org/index.php/World_Generation "wikilink"). Then, create your world, using
 the following settings:
 
-  World size   History   Number of Civilisations   Maximum Number of Sites   Number of Beasts   Natural Savagery   Mineral Occurrence
-  ------------ --------- ------------------------- ------------------------- ------------------ ------------------ --------------------
-  Small        Short     High                      Medium                    Medium             Medium             Frequent
+World size | History | Number of Civilisations | Maximum Number of Sites | Number of Beasts | Natural Savagery |  Mineral Occurrence
+---------- | ------- | ----------------------- | ----------------------- | ---------------- | ---------------- | -------------------
+Small | Short | High | Medium | Medium | Medium | Frequent
 
 This should result in a well-balanced mix of challenge (hostile
 civilisations, beasts, savage animals) and opportunity (minerals,
@@ -20,12 +19,12 @@ generate and the game run fairly fast on a variety of machines; note
 that these aspects of performance tend to degrade exponentially with
 world size and complexity.
 
-You may wish to consult the [Map legend](Map_legend "wikilink") to
+You may wish to consult the [Map legend](http://dwarffortresswiki.org/index.php/Map_legend "wikilink") to
 understand the result a bit better. When you're done, hit to save the
 world and return to the main menu.
 
 Now that your world is done baking you could, if you desired, dive right
-in with [Dwarf fortress mode](Dwarf_fortress_mode "wikilink"). However,
+in with [Dwarf fortress mode](http://dwarffortresswiki.org/index.php/Dwarf_fortress_mode "wikilink"). However,
 I prefer to learn a bit more about the various dwarven civilisations
 before I choose one to play. If you'd like to do the same, you want some
 third-party tools (otherwise skip a section).
@@ -33,7 +32,7 @@ third-party tools (otherwise skip a section).
 Examining the World
 -------------------
 
-Install [DFhack](Utility:DFHack "wikilink"), and then [Legends
+Install [DFhack](http://dwarffortresswiki.org/index.php/Utility:DFHack "wikilink"), and then [Legends
 Viewer](http://www.bay12forums.com/smf/index.php?topic=154617.0). Follow
 the instructions to get Legends Viewer working - it's fairly
 straightforward and easy to use.
@@ -49,10 +48,10 @@ settled on one. I like to choose a civilisation I can build a story
 around, and which gives my fortress a purpose - strengthening a frontier
 against aggressors, for example, or expanding territory, or whatever.
 Then go back into Dwarf Fortress and start fortress mode. Be aware that
-choosing a civilisation with active [conflicts](War "wikilink")
-increases your dosage of vitamin [F](Fun "wikilink"). And even if your
+choosing a civilisation with active [conflicts](http://dwarffortresswiki.org/index.php/War "wikilink")
+increases your dosage of vitamin [F](http://dwarffortresswiki.org/index.php/Fun "wikilink"). And even if your
 civilisation is not at war after worldgen, wars often begin in the short
-[burn-in time](World_activities#Advancing_time "wikilink") before
+[burn-in time](http://dwarffortresswiki.org/index.php/World_activities#Advancing_time "wikilink") before
 starting your fortress, and also soon after you begin playing. The first
 caravan often brings quite dire news.
 
@@ -67,17 +66,17 @@ Choosing a site
 ---------------
 
 Once you're ready to choose a civilisation, read some
-[advice](Embark "wikilink") on [Choosing a Good
-Site](Quickstart_guide#Choosing_a_Good_Site "wikilink"). It's worth
+[advice](http://dwarffortresswiki.org/index.php/Embark "wikilink") on [Choosing a Good
+Site](http://dwarffortresswiki.org/index.php/Quickstart_guide#Choosing_a_Good_Site "wikilink"). It's worth
 taking your time with this! There are a lot of important considerations.
-You want it not too [dangerous](Surroundings "wikilink"), useful
-[temperature, flora and fauna](Biome "wikilink") (especially trees),
-flowing water [of some kind](River "wikilink"), [fair
-expectation](Civilisation#Dead_and_Struggling_Civilizations "wikilink")
-of caravans and migrants, no [aquifer](Aquifer "wikilink") (useful but
-compelx/dangerous), all the [metals](Ore "wikilink") and
-[flux](Flux "wikilink") you could desire, a few layers of
-[soil](Stone_layers#Soil "wikilink"), and ideally also some sand and
-clay. It's also worth [checking](Embark#Changing_Views "wikilink") your
+You want it not too [dangerous](http://dwarffortresswiki.org/index.php/Surroundings "wikilink"), useful
+[temperature, flora and fauna](http://dwarffortresswiki.org/index.php/Biome "wikilink") (especially trees),
+flowing water [of some kind](http://dwarffortresswiki.org/index.php/River "wikilink"), [fair
+expectation](http://dwarffortresswiki.org/index.php/Civilisation#Dead_and_Struggling_Civilizations "wikilink")
+of caravans and migrants, no [aquifer](http://dwarffortresswiki.org/index.php/Aquifer "wikilink") (useful but
+compelx/dangerous), all the [metals](http://dwarffortresswiki.org/index.php/Ore "wikilink") and
+[flux](http://dwarffortresswiki.org/index.php/Flux "wikilink") you could desire, a few layers of
+[soil](http://dwarffortresswiki.org/index.php/Stone_layers#Soil "wikilink"), and ideally also some sand and
+clay. It's also worth [checking](http://dwarffortresswiki.org/index.php/Embark#Changing_Views "wikilink") your
 proximity to your own civilisation, trading partners, and potential
 belligerents (in particular, maybe avoid necromancer towers for now).

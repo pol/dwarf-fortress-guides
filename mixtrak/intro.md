@@ -1,6 +1,7 @@
 Welcome to [mixtrak](http://dwarffortresswiki.org/index.php/User:Mixtrak "wikilink")'s strategy guide for Dwarf Fortress.
 
-# *Another* one? #
+*Another* one?
+--------------
 
 Yes, there are many detailed, comprehensive resources for Dwarf Fortress
 on this wiki, and very illustrative video tutorials and playthrough

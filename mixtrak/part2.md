@@ -16,7 +16,7 @@ Checking for Threats
 
 So the first order of business is to pause the game (you *have* paused,
 haven't you? Maybe go re-read the [Quickstart
-Guide](Quickstart_Guide "wikilink")…) and check your surroundings for
+Guide](http://dwarffortresswiki.org/index.php/Quickstart_Guide "wikilink")…) and check your surroundings for
 threats. On a nice embark, there should be nothing more exciting than
 some fairly mundane wildlife.
 
@@ -79,8 +79,8 @@ have time for. For now, we just need to get underground, and batten down
 the hatches as best we can.
 
 Now we have some coordinates by which to orient ourselves, we need to
-designate a few [stockpiles](Stockpile "wikilink") and
-[zones](Zone "wikilink") nearby. First, find the nearest flowing water
+designate a few [stockpiles](http://dwarffortresswiki.org/index.php/Stockpile "wikilink") and
+[zones](http://dwarffortresswiki.org/index.php/Zone "wikilink") nearby. First, find the nearest flowing water
 tile and, on the single bank tile *adjacent* to the water tile,
 designate a water source.
 
@@ -91,9 +91,9 @@ the following diagram) and a pasture zone (`p`):
 
 Later, that gap in the bottom-right corner will hold your trade depot.
 The refuse pile is necessary because dead matter stored underground will
-[rot](Miasma "wikilink"), which makes your dwarves unhappy. And the
+[rot](http://dwarffortresswiki.org/index.php/Miasma "wikilink"), which makes your dwarves unhappy. And the
 pasture is - duh - so that your grazing animals don't starve for lack of
-[Grass](Grass "wikilink"). If your map doesn't have grass in the middle
+[Grass](http://dwarffortresswiki.org/index.php/Grass "wikilink"). If your map doesn't have grass in the middle
 here, you'll need to find some nearby. Go ahead and assign your sheep
 (or other grazing animals) to that pasture zone.
 
@@ -157,7 +157,7 @@ automatically created when the layer above gets channelled. Make sure
 the location of up and down ramps on each level lines up! Those three
 dark squares are un-designated because they provide support and are
 necessary for the ramps to function. It's a little confusing, so go read
-[Ramp](Ramp "wikilink") and [Channel](Channel "wikilink") if you're not
+[Ramp](http://dwarffortresswiki.org/index.php/Ramp "wikilink") and [http://dwarffortresswiki.org/index.php/Channel](Channel "wikilink") if you're not
 following.
 
 You can unpause now.
@@ -228,7 +228,7 @@ Made it!
 
 Of course, things might not have gone to plan. If something arrives at
 your fort and either a) it won't go away, so you can't safely access the
-surface or b) it's a [Building Destroyer](Building_Destroyer "wikilink")
+surface or b) it's a [Building Destroyer](http://dwarffortresswiki.org/index.php/Building_Destroyer "wikilink")
 and it's coming this way and *oh Armok it's breaking down the hatch…*
 you'll have to engineer a more permanent solution. That's beyond the
 scope of this guide because it constitutes a fairly substantial
@@ -239,9 +239,8 @@ First, protect yourself from building destroyers. First, make sure your
 dwarves are all inside, then mine away the single up-ramp to the
 surface, and replace it with a wall constructed of mining stone (you
 should have some by now). Second, you need to engineer
-[Cave-in](Cave-in "wikilink") traps, then lure the thing(s) into them
-and activate them. There's [a lot of ways to do
-this](Trap_design#cave-in_trap "wikilink") but a word to the wise:
+[Cave-in](http://dwarffortresswiki.org/index.php/Cave-in "wikilink") traps, then lure the thing(s) into them
+and activate them. There's [a lot of ways to do this](http://dwarffortresswiki.org/index.php/Trap_design#cave-in_trap "wikilink") but a word to the wise:
 either make it so the traps and fortress access can be activated
 remotely, from behind a walled-in fallback position, or *don't bloody
 well miss*. Make more and bigger traps than you think you need,
