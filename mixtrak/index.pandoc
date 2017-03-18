@@ -1,0 +1,14 @@
+# Just a list of the files to be composed into the guide.
+
+# Intro Chapter
+intro.md
+
+# Part 1: Worldgen and Embark
+worldgen_site_civ.md
+embark.md
+
+# Part 2: Establish a foothold
+part2.md
+
+# Part 3: Begin Economy (Wood and Stone)
+part3.md
