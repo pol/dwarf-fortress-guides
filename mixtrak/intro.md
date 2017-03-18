@@ -1,13 +1,10 @@
-Welcome to [mixtrak](User:Mixtrak "wikilink")'s strategy guide for Dwarf
-Fortress.
+Welcome to [mixtrak](http://dwarffortresswiki.org/index.php/User:Mixtrak "wikilink")'s strategy guide for Dwarf Fortress.
 
-*Another* one?
---------------
+# *Another* one? #
 
 Yes, there are many detailed, comprehensive resources for Dwarf Fortress
 on this wiki, and very illustrative video tutorials and playthrough
-guides elsewhere. I have relied on [them](Tutorials "wikilink")
-extensively (thanks, [Captain
+guides elsewhere. I have relied on [them](http://dwarffortresswiki.org/index.php/Tutorials "wikilink") extensively (thanks, [Captain
 Duck](http://dffd.bay12games.com/file.php?id=10552)!), and so will you -
 this strategy guide is not intended to be in any way definitive or a
 replacement for other resources. Rather, the intention of this guide is
@@ -40,7 +37,7 @@ This strategy asserts that a fairly “nice” location - with good
 resources and moderate dangers - is the best way to learn how to manage
 a fort. This task is sufficiently complex that you should not want for
 additional challenges; the basic gameplay provides quite sufficient
-[Fun](Fun "wikilink") for most beginners.
+[Fun](http://dwarffortresswiki.org/index.php/Fun "wikilink") for most beginners.
 
 The main reason to start (relatively) easy is the complexity and
 interconnectedness of the different facets of fortress management. An
@@ -127,38 +124,38 @@ Recommended Pre-reading
 
 This guide assumes you already have a general idea of what [Dwarf
 Fortress](Dwarf_Fortress "wikilink")
-[*is*](User:Mixtrak/What_is_Dwarf_Fortress? "wikilink") actually
-[About](About "wikilink"), and that you've managed to get it
-[running](Installation "wikilink"). In addition, I'd recommend reading,
-at minimum, the [Quickstart guide](Quickstart_guide "wikilink"), but
+[*is*](http://dwarffortresswiki.org/index.php/User:Mixtrak/What_is_Dwarf_Fortress? "wikilink") actually
+[About](http://dwarffortresswiki.org/index.php/About "wikilink"), and that you've managed to get it
+[running](http://dwarffortresswiki.org/index.php/Installation "wikilink"). In addition, I'd recommend reading,
+at minimum, the [Quickstart guide](http://dwarffortresswiki.org/index.php/Quickstart_guide "wikilink"), but
 really any time spent on the wiki is spent well. Don't worry too much
 about understanding or retaining things at this stage - this is more by
 way of general orientation. You could also consider reading parts of the
-[Frequently Asked Questions](Frequently_Asked_Questions "wikilink")
+[Frequently Asked Questions](http://dwarffortresswiki.org/index.php/Frequently_Asked_Questions "wikilink")
 (particularly the interface, since that won't be covered much in this
 guide), and a little more detail about [Dwarf Fortress
 Mode](Dwarf_Fortress_Mode "wikilink"), which is what we'll be playing.
 It also wouldn't hurt to watch some video tutorials - I highly recommend
 the aforementioned series by Captain Duck. Some of the information in
-the [Tutorials](Tutorials "wikilink") may be outdated or contradict the
+the [Tutorials](http://dwarffortresswiki.org/index.php/Tutorials "wikilink") may be outdated or contradict the
 recommendations in this guide, so don't be confused by the differences.
 
 Strategy Guide Parts
 --------------------
 
-[Part 1](User:Mixtrak/Strategy/part_1 "wikilink") covers world
+[Part 1](http://dwarffortresswiki.org/index.php/User:Mixtrak/Strategy/part_1 "wikilink") covers world
 generation, choosing a civilisation and site, provisioning your dwarves,
 and allocating skills
 
-[Part 2](User:Mixtrak/Strategy/part_2 "wikilink") covers the initial
+[Part 2](http://dwarffortresswiki.org/index.php/User:Mixtrak/Strategy/part_2 "wikilink") covers the initial
 settling-in period at your new map, that is, the mad scurry to get a
 door between your dwarves and the wildlife
 
-[Part 3](User:Mixtrak/Strategy/part_3 "wikilink") is (currently) very
+[Part 3](http://dwarffortresswiki.org/index.php/User:Mixtrak/Strategy/part_3 "wikilink") is (currently) very
 long indeed, and sets up early security and self-sufficiency.
 
 The next part (in development) will probably cover basic amenities for
 your dwarves, trade, and allocation of labours.
 
-[Mixtrak](User:Mixtrak "wikilink")
-([talk](User_talk:Mixtrak "wikilink")) 07:07, 15 March 2017 (UTC)
+[Mixtrak](http://dwarffortresswiki.org/index.php/User:Mixtrak "wikilink")
+([talk](http://dwarffortresswiki.org/index.php/User_talk:Mixtrak "wikilink")) 07:07, 15 March 2017 (UTC)

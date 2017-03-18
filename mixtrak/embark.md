@@ -8,7 +8,7 @@ fortress, secure its entrance, and obtain sufficient food and drink.
 There are a few more long-term considerations as well, particularly as
 regards to crucial supplies which are, for one reason or another,
 difficult to manufacture early in the game. You have the strangely
-specific sum of 1,504 copper [Dwarfbucks](Currency "wikilink")
+specific sum of 1,504 copper [Dwarfbucks](http://dwarffortresswiki.org/index.php/Currency "wikilink")
 (sometimes written as “DB”s or with the symbol “☼”) to allocate between
 supplies and skills.
 
@@ -56,7 +56,7 @@ asexual. We'll need two of each sex for redundancy.
     the horn).
 -    Similarly, bring two adult male and female war dogs. War dogs serve
     two important functions. First, we will be using them as guard dogs
-    to detect and frighten off [thieves](Thief "wikilink"). Later, when
+    to detect and frighten off [thieves](http://dwarffortresswiki.org/index.php/Thief "wikilink"). Later, when
     a few of their pups have grown, we can train more war dogs and
     assign them to dwarves for protection.
 -    Again, take two adult peacocks and peahens. An egg industry is very
@@ -64,21 +64,21 @@ asexual. We'll need two of each sex for redundancy.
     Blue peafowl are a balanced choice: they live an extremely long time
     so you won't have to worry about replacing them for a while, grow to
     maximum size quickly in case you decide to use excess birds in the
-    [Meat industry](Meat_industry "wikilink"), and have a moderate but
+    [Meat industry](http://dwarffortresswiki.org/index.php/Meat_industry "wikilink"), and have a moderate but
     consistent clutch size. Many [other
     birds](Egg_production#Embark "wikilink") are also perfectly
     appropriate.
 -    Bring a single male cat. Cats kill vermin and so protect your food
     stocks. Their population can be [difficult to
     control](Catsplosion "wikilink"), however, so using a tom cat allows
-    [gelding](Gelder "wikilink").
+    [gelding](http://dwarffortresswiki.org/index.php/Gelder "wikilink").
 
 You should have about ☼443 remaining.
 
 ### Skills
 
-Now it's time to assign [skills](Skill "wikilink") to your dwarves,
-which will determine which [labours](Labor "wikilink") they will carry
+Now it's time to assign [skills](http://dwarffortresswiki.org/index.php/Skill "wikilink") to your dwarves,
+which will determine which [labours](http://dwarffortresswiki.org/index.php/Labor "wikilink") they will carry
 out in your fortress. The following list covers all the essential core
 skills for a self-sufficient fort, and matches them by workload (so a
 high-demand job, like masonry, is matched with a seldom-needed job, like
@@ -166,8 +166,8 @@ Check the dwarves' [Thoughts and
 Preferences](Thoughts_and_Preferences "wikilink") pages. If they like a
 material or product associated with a particular skill (e.g. oak wood,
 mugs, quarry bush leaves) then it's a good bet to match those up. Other
-[characteristics](Personality_trait "wikilink") can also be
-[important](Attributes "wikilink") - you ideally want miners who are
+[characteristics](http://dwarffortresswiki.org/index.php/Personality_trait "wikilink") can also be
+[important](http://dwarffortresswiki.org/index.php/Attributes "wikilink") - you ideally want miners who are
 slow to tire, for example. The wiki pages for individual skills list the
 attributes they require and train, if you're interested. On the whole,
 however, it's not likely to make an enormous difference. By all means
