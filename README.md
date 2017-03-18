@@ -18,6 +18,8 @@ There are two options for installation:
 ## Usage ##
 
 TODO: Write usage instructions
+- Building the guides
+- Recomended Markdown editors
 
 ## Contributing ##
 

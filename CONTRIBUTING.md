@@ -36,6 +36,6 @@ Start reading our code and you'll get the hang of it. We optimize for readabilit
   * Please place non-text content in file-type subdirectores (images in an image subdirectory, embark profiles in an embark subdirectory, etc).
 
 Thanks,
-Pol Llovet
+Dwarf Fortress Guides Team
 
 Note: this document was written based on the CONTRIBUTING guidelines for the [Open Government repository](https://github.com/opengovernment/opengovernment/blob/master/CONTRIBUTING.md).
