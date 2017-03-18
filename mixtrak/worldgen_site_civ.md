@@ -10,7 +10,7 @@ the following settings:
 
 World size | History | Number of Civilisations | Maximum Number of Sites | Number of Beasts | Natural Savagery |  Mineral Occurrence
 ---------- | ------- | ----------------------- | ----------------------- | ---------------- | ---------------- | -------------------
-Small | Short | High | Medium | Medium | Medium | Frequent
+Small      | Short   | High                    | Medium                  | Medium           | Medium           | Frequent
 
 This should result in a well-balanced mix of challenge (hostile
 civilisations, beasts, savage animals) and opportunity (minerals,
