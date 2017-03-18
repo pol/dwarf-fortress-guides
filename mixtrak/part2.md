@@ -60,7 +60,7 @@ In these diagrams, I've chosen east. On that single tile, designate a
 channel in the ground. That tile will flash with the underscore
 character.
 
-![](central_square_entrance.png "central_square_entrance.png")
+![](images/central_square_entrance.png "central_square_entrance.png")
 
 Legend:
 
@@ -87,7 +87,7 @@ designate a water source.
 Next, you'll need a combined stockpile for refuse and corpses (`r` in
 the following diagram) and a pasture zone (`p`):
 
-![](zones_stockpiles.png "zones_stockpiles.png")
+![](images/zones_stockpiles.png "zones_stockpiles.png")
 
 Later, that gap in the bottom-right corner will hold your trade depot.
 The refuse pile is necessary because dead matter stored underground will
@@ -100,7 +100,7 @@ here, you'll need to find some nearby. Go ahead and assign your sheep
 Now it's time to go down a layer and designate the next set of digging,
 which should look like this:
 
-![](stairwell_1.png "stairwell_1.png")
+![](images/stairwell_1.png "stairwell_1.png")
 
 Note that we're not mining directly under the channel - otherwise you
 risk mining away the up-ramps which channels produce and your miners
@@ -125,7 +125,7 @@ That said, I'd recommend repeating the spiral pattern until you're at
 least five layers beneath the lowest water-point on the map. So the next
 layer would look like so:
 
-![](stairwell_2.png "stairwell_2.png")
+![](images/stairwell_2.png "stairwell_2.png")
 
 And so on. This might seem like a lot more work than just digging a
 shaft, but it has advantages:
@@ -147,7 +147,7 @@ below the lowest water level on your map), we're ready to actually begin
 digging the fortress blueprint. First, designate a large 11 x 11 room on
 the next level down, centred on the central map tile:
 
-![](central_room.png "central_room.png")
+![](images/central_room.png "central_room.png")
 
 In that diagram and all diagrams going forward, I've replaced the
 channelling designations with triangles pointing down, because that's
@@ -175,13 +175,10 @@ jobs which should absolutely be done as soon as possible:
 
 -   Once the first level of the stairwell is complete, build two ropes
     as restraints on the diagonal extending out from the inner corner,
-    like so:
-
-:   ![](dog_placement.png "fig:dog_placement.png")
-:   Then assign your one of your war dogs to each rope. They can roam
+    like so: ![](images/dog_placement.png "fig:dog_placement.png")
+-   Then assign your one of your war dogs to each rope. They can roam
     within 1 tile of the restraint, but no configuration leaves a gap
     for anything to sneak through.
-
 -   Once the cart is deconstructed, make a carpenter's workshop (on the
     surface or, if things are looking dicey, in the stairwell) from one
     of the logs, then use that to make a wooden hatch from another log.
