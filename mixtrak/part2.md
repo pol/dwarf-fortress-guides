@@ -157,7 +157,7 @@ automatically created when the layer above gets channelled. Make sure
 the location of up and down ramps on each level lines up! Those three
 dark squares are un-designated because they provide support and are
 necessary for the ramps to function. It's a little confusing, so go read
-[Ramp](http://dwarffortresswiki.org/index.php/Ramp "wikilink") and [http://dwarffortresswiki.org/index.php/Channel](Channel "wikilink") if you're not
+[Ramp](http://dwarffortresswiki.org/index.php/Ramp "wikilink") and [Channel](http://dwarffortresswiki.org/index.php/Channel "wikilink") if you're not
 following.
 
 You can unpause now.
