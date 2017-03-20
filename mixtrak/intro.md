@@ -123,9 +123,9 @@ minecart, friend.
 Recommended Pre-reading
 -----------------------
 
-This guide assumes you already have a general idea of what [Dwarf
-Fortress](Dwarf_Fortress "wikilink")
-[*is*](http://dwarffortresswiki.org/index.php/User:Mixtrak/What_is_Dwarf_Fortress? "wikilink") actually
+This guide assumes you already have a general idea of 
+what [Dwarf Fortress](http://dwarffortresswiki.org/index.php/Dwarf_Fortress "wikilink")
+[*is*](http://dwarffortresswiki.org/index.php/User:Mixtrak/What_is_Dwarf_Fortress%3F "wikilink") actually
 [About](http://dwarffortresswiki.org/index.php/About "wikilink"), and that you've managed to get it
 [running](http://dwarffortresswiki.org/index.php/Installation "wikilink"). In addition, I'd recommend reading,
 at minimum, the [Quickstart guide](http://dwarffortresswiki.org/index.php/Quickstart_guide "wikilink"), but
