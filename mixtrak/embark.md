@@ -59,7 +59,7 @@ asexual. We'll need two of each sex for redundancy.
 
 <!-- adding animals in order they appear in the list -->
 
-War dogs serve two important functions. First, we will be using them as 
+**War dogs** serve two important functions. First, we will be using them as 
 guard dogs to detect and frighten off [thieves] (http://dwarffortresswiki.org/index.php/Thief "wikilink"). 
 Later, when a few of their pups have grown, we can train more war dogs and 
 assign them to dwarves for protection.
@@ -67,13 +67,14 @@ assign them to dwarves for protection.
 - 2x `war dog ♀`
 - 2x `war dog ♂`
 
-Bring a single male cat. Cats kill vermin and so protect your food stocks. 
-Their population can be [difficult to control](Catsplosion "wikilink"), 
-however, so using a tom cat allows [gelding](http://dwarffortresswiki.org/index.php/Gelder "wikilink").
+Bring a single **male cat**. Cats kill vermin and so protect your food 
+stocks. Their population can be [difficult to control](Catsplosion 
+"wikilink"), however, so using a tom cat allows 
+[gelding](http://dwarffortresswiki.org/index.php/Gelder "wikilink").
 
 - 1x `cat ♂`
 
-Sheep are the most versatile livestock - they don't require a lot of 
+**Sheep** are the most versatile livestock - they don't require a lot of 
 pasture, and they are the only starting livestock which can provide wool, 
 milk, meat, bone, hide, and horn (llamas and alpacas are similar, but 
 without the horn, and goats don't produce wool).
@@ -82,7 +83,8 @@ without the horn, and goats don't produce wool).
 - 2x `ram ♂`
 
 An egg industry is very simple and self-contained way to ensure a steady 
-supply of food. Blue peafowl are a balanced choice: they live an extremely 
+supply of food. **Blue peafowl** are a balanced choice: 
+they live an extremely 
 long time so you won't have to worry about replacing them for a while, 
 grow to maximum size quickly in case you decide to use excess birds in the
 [Meat industry](http://dwarffortresswiki.org/index.php/Meat_industry "wikilink"), and have a moderate but consistent clutch size. 
