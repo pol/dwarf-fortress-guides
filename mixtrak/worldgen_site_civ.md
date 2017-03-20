@@ -1,8 +1,8 @@
 This first section of the strategy guide covers world generation, site
 and civilisation choice, provisioning and skill allotment.
 
-Worldgen, Site and Civ Choice
------------------------------
+Worldgen, Site and Civilization Choice
+--------------------------------------
 
 This step is rather straightforward, and well-covered in the wiki.
 First, read the article on basic [World Generation](http://dwarffortresswiki.org/index.php/World_Generation "wikilink"). Then, create your world, using
@@ -26,41 +26,10 @@ world and return to the main menu.
 Now that your world is done baking you could, if you desired, dive right
 in with [Dwarf fortress mode](http://dwarffortresswiki.org/index.php/Dwarf_fortress_mode "wikilink"). However,
 I prefer to learn a bit more about the various dwarven civilisations
-before I choose one to play. If you'd like to do the same, you want some
-third-party tools (otherwise skip a section).
-
-Examining the World
--------------------
-
-Install [DFhack](http://dwarffortresswiki.org/index.php/Utility:DFHack "wikilink"), and then [Legends
-Viewer](http://www.bay12forums.com/smf/index.php?topic=154617.0). Follow
-the instructions to get Legends Viewer working - it's fairly
-straightforward and easy to use.
-
-The initial page should show some summary statistics about the various
-civilisations. Pick a dwarven civilisation you like the sound of, and
-which has a middling to high number of citizens (five hundred is
-probably a good minimum, to ensure you get caravans and migrants). Click
-on that civilisation and you'll be taken to more information about them.
-Continue to explore different civilisations and their stories - tragic
-or heroic rulers, battles, lost fortresses and so on - until you've
-settled on one. I like to choose a civilisation I can build a story
-around, and which gives my fortress a purpose - strengthening a frontier
-against aggressors, for example, or expanding territory, or whatever.
-Then go back into Dwarf Fortress and start fortress mode. Be aware that
-choosing a civilisation with active [conflicts](http://dwarffortresswiki.org/index.php/War "wikilink")
-increases your dosage of vitamin [F](http://dwarffortresswiki.org/index.php/Fun "wikilink"). And even if your
-civilisation is not at war after worldgen, wars often begin in the short
-[burn-in time](http://dwarffortresswiki.org/index.php/World_activities#Advancing_time "wikilink") before
-starting your fortress, and also soon after you begin playing. The first
-caravan often brings quite dire news.
-
-I should note here that DFHack starts automatically alongside Dwarf
-Fortress, but for the rest of this guide I'll assume you're not using
-any third-party applications. It's easy to switch DFHack off - just
-rename “SDL.dll” (which actually came from your DFHack install) to
-something like “SDL\_dfhack.dll” and then rename “SDLreal.dll” to
-“SDL.dll”. Reversing this process turns DFHack on again.
+before I choose one to play. If you'd like to do the same, look into installing [DFhack](http://dwarffortresswiki.org/index.php/Utility:DFHack "wikilink") and using the [Legends
+Viewer](http://www.bay12forums.com/smf/index.php?topic=154617.0) to look at the various civilizations
+and their stories.  Note: if you do start a fortress mode game in your new world, you will not
+be able to see the legends without abandoning your fortress (the game modes are exclusive). 
 
 Choosing a site
 ---------------
@@ -68,15 +37,32 @@ Choosing a site
 Once you're ready to choose a civilisation, read some
 [advice](http://dwarffortresswiki.org/index.php/Embark "wikilink") on [Choosing a Good
 Site](http://dwarffortresswiki.org/index.php/Quickstart_guide#Choosing_a_Good_Site "wikilink"). It's worth
-taking your time with this! There are a lot of important considerations.
-You want it not too [dangerous](http://dwarffortresswiki.org/index.php/Surroundings "wikilink"), useful
-[temperature, flora and fauna](http://dwarffortresswiki.org/index.php/Biome "wikilink") (especially trees),
-flowing water [of some kind](http://dwarffortresswiki.org/index.php/River "wikilink"), [fair
-expectation](http://dwarffortresswiki.org/index.php/Civilisation#Dead_and_Struggling_Civilizations "wikilink")
-of caravans and migrants, no [aquifer](http://dwarffortresswiki.org/index.php/Aquifer "wikilink") (useful but
-compelx/dangerous), all the [metals](http://dwarffortresswiki.org/index.php/Ore "wikilink") and
-[flux](http://dwarffortresswiki.org/index.php/Flux "wikilink") you could desire, a few layers of
-[soil](http://dwarffortresswiki.org/index.php/Stone_layers#Soil "wikilink"), and ideally also some sand and
-clay. It's also worth [checking](http://dwarffortresswiki.org/index.php/Embark#Changing_Views "wikilink") your
-proximity to your own civilisation, trading partners, and potential
-belligerents (in particular, maybe avoid necromancer towers for now).
+taking your time with this! There are a lot of important considerations. 
+
+To search for a site with these characteristics, press `f` (Find Desired Location), with the following options (leave as N/A if not listed):
+
+**Required**
+
+- Soil: Some ([for agriculture](http://dwarffortresswiki.org/index.php/Stone_layers#Soil "wikilink"))
+- Clay: Yes
+- Aquifer: No ([useful but complex/dangerous](http://dwarffortresswiki.org/index.php/Aquifer "wikilink")))
+- Shallow Metal: Yes ([for metal industry](http://dwarffortresswiki.org/index.php/Ore "wikilink"))
+- Flux Stone Layer: Yes ([for iron and steel](http://dwarffortresswiki.org/index.php/Flux "wikilink"))
+
+**Preferred**
+
+- Savagery: Low ([not too dangerous](http://dwarffortresswiki.org/index.php/Surroundings "wikilink"))
+- Temperature: Medium ([a moderate temperature](http://dwarffortresswiki.org/index.php/Biome))
+- Evil: Low (avoid necromancer's towers for now)
+- Deep Metal: Yes
+
+If you don't find anything, make a note of what items are showing up in red, and adjust the "Preferred" items above until you find a site.  If you still can't find a site with the Preferred items all set to N/A,  you can either generate a new world, or you can remove a required feature. Playing without a required feature will require being creative and going outside the guide (for example, you will have to trade for clay instead of mining it).
+
+Once you have found a site, there are some additional requirements that will not be covered by the search: 
+
+1. [Trees](http://dwarffortresswiki.org/index.php/DF2014:Tree "wikilink"), for carpentry
+2. [Flowing water](http://dwarffortresswiki.org/index.php/River "wikilink") (stream, brook, or river), for brewing and cleaning
+3. (optional) [Sand](http://dwarffortresswiki.org/index.php/DF2014:Sand), for glass making. <!-- TODO: Is sand even available on the embark screen? -->
+
+The "High" number of civilizations will almost certainly ensure that you will have access to migrants, visitors, and merchant caravans.
+However, it is worth [checking](http://dwarffortresswiki.org/index.php/Embark#Changing_Views "wikilink") your proximity to your own civilization (if you picked one you liked from Legends mode) just to make sure that it isn't too far away. Otherwise, you can keep the default civilization.
