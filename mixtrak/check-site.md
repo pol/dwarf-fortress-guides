@@ -20,7 +20,7 @@ haven't you? Maybe go re-read the
 threats (press `u` for units). On a nice embark, there should be nothing 
 more exciting than some fairly mundane wildlife.
 
-- Pause the game!
+- ⇨ Pause the game!
 
 If, however, there's anything more interesting on the prowl, you have
 three options. The first is to proceed with your fortress, but do it

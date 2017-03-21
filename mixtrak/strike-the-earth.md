@@ -6,8 +6,8 @@ its logs. This is a task for your carpenter, so don't go distracting
 them with any tree-felling jobs or anything. Next, turn off your miners'
 hauling labours - they need to focus!
 
-- Designate the wagon for removal (using `q`)
-- Turn off Miners' [hauling labors](http://dwarffortresswiki.org/index.php/DF2014:Labor 'wikilink')
+- ⇨ Designate the wagon for removal (using `q`)
+- ⇨ Turn off Miners' [hauling labors](http://dwarffortresswiki.org/index.php/DF2014:Labor 'wikilink')
 
 Now before we start chucking things about it's important to make a plan
 for where everything is going to go. Feel free to come up with your own
@@ -25,7 +25,7 @@ to spot the center when you are just starting your layout.  Make sure to
 go back to "Standard" mode by pressing `m` again before you try to do 
 actual digging. 
 
-- Find and mark the center of your fortress with `Marker`
+- ⇨ Find and mark the center of your fortress with `Marker`
 
 The center is the location of the central axis of your spiral ramp 
 descending down into the fortress, but don't dig right here. The entrance 
@@ -34,7 +34,7 @@ west). In these diagrams, I've chosen east. On that single tile,
 designate a channel in the ground. That tile will flash with the 
 underscore character.
 
-- Designate a `Channel` three tiles from the center (`[_]`)
+- ⇨ Designate a `Channel` three tiles from the center (`[_]`)
 
 ![](images/central_square_entrance.png "central_square_entrance.png")
 
@@ -63,13 +63,13 @@ designate  two
 tile and, on the single bank tile *adjacent* to the water tile,
 designate a water source.  If you started in the spring, the river may temporarily be frozen.
 
-- Create a single-tile `Water Source` zone **adjacent** to the stream or river.
+- ⇨ Create a single-tile `Water Source` zone **adjacent** to the stream or river.
 
 Next, you'll need a combined stockpile for refuse and corpses (`r` in
 the following diagram) and a pasture zone (`p`):
 
-- Create a 11x6 `Pen/Pasture` zone (`[p]]`)
-- Create a 7x5 `Refuse` and `Corpse` stockpile (`[r]`)
+- ⇨ Create a 11x6 `Pen/Pasture` zone (`[p]]`)
+- ⇨ Create a 7x5 `Refuse` and `Corpse` stockpile (`[r]`)
 
 <!-- Should this be a refuse zone or a refuse stockpile? -->
 
@@ -83,7 +83,7 @@ pasture is - duh - so that your grazing animals don't starve for lack of
 here, you'll need to find some nearby. Go ahead and assign your sheep
 (or other grazing animals) to that pasture zone.
 
-- Assign your `Rams`, `Ewes`, and `Yaks` to the pasture.
+- ⇨ Assign your `Rams`, `Ewes`, and `Yaks` to the pasture.
 
 Now it's time to go down a layer and designate the next set of digging,
 which should look like this:
@@ -130,7 +130,7 @@ shaft, but it has advantages:
 A little extra digging now will save you time and remodelling in the
 long run. A stitch in time, as they say.
 
-- Continue `mining` and `channeling` the spiral ramp down until at least 5 layers below the lowest water. 
+- ⇨ Continue `mining` and `channeling` the spiral ramp down until at least 5 layers below the lowest water. 
 
 Once you're down deep enough, we're ready to actually begin
 digging the fortress blueprint. First, designate a large 11 x 11 room on
@@ -149,4 +149,4 @@ necessary for the ramps to function. It's a little confusing, so go read
 [Ramp](http://dwarffortresswiki.org/index.php/Ramp "wikilink") and [http://dwarffortresswiki.org/index.php/Channel](Channel "wikilink") if you're not
 following.
 
-- `Mine` and 11x11 room centered on your fortress center, but including the ramp `channel` to continue the spiral further.
+- ⇨ `Mine` an 11x11 room centered on your fortress center, but including the ramp `channel` to continue the spiral further.

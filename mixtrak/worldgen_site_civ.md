@@ -43,18 +43,18 @@ To search for a site with these characteristics, press `f` (Find Desired Locatio
 
 **Required**
 
-- Soil: Some ([for agriculture](http://dwarffortresswiki.org/index.php/Stone_layers#Soil "wikilink"))
-- Clay: Yes
-- Aquifer: No ([useful but complex/dangerous](http://dwarffortresswiki.org/index.php/Aquifer "wikilink")))
-- Shallow Metal: Yes ([for metal industry](http://dwarffortresswiki.org/index.php/Ore "wikilink"))
-- Flux Stone Layer: Yes ([for iron and steel](http://dwarffortresswiki.org/index.php/Flux "wikilink"))
+- ⇨ Soil: Some ([for agriculture](http://dwarffortresswiki.org/index.php/Stone_layers#Soil "wikilink"))
+- ⇨ Clay: Yes
+- ⇨ Aquifer: No ([useful but complex/dangerous](http://dwarffortresswiki.org/index.php/Aquifer "wikilink")))
+- ⇨ Shallow Metal: Yes ([for metal industry](http://dwarffortresswiki.org/index.php/Ore "wikilink"))
+- ⇨ Flux Stone Layer: Yes ([for iron and steel](http://dwarffortresswiki.org/index.php/Flux "wikilink"))
 
 **Preferred**
 
-- Savagery: Low ([not too dangerous](http://dwarffortresswiki.org/index.php/Surroundings "wikilink"))
-- Temperature: Medium ([a moderate temperature](http://dwarffortresswiki.org/index.php/Biome))
-- Evil: Low (avoid necromancer's towers for now)
-- Deep Metal: Yes
+- ⇨ Savagery: Low ([not too dangerous](http://dwarffortresswiki.org/index.php/Surroundings "wikilink"))
+- ⇨ Temperature: Medium ([a moderate temperature](http://dwarffortresswiki.org/index.php/Biome))
+- ⇨ Evil: Low (avoid necromancer's towers for now)
+- ⇨ Deep Metal: Yes
 
 If you don't find anything, make a note of what items are showing up in red, and adjust the "Preferred" items above until you find a site.  If you still can't find a site with the Preferred items all set to N/A,  you can either generate a new world, or you can remove a required feature. Playing without a required feature will require being creative and going outside the guide (for example, you will have to trade for clay instead of mining it).
 

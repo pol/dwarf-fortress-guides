@@ -22,11 +22,11 @@ Let's first look at supplies we can do without, remove the following from the li
 
 #### Items to Remove
 
-- 1 `copper battle axe` - You'll only need a single copper battle-axe for your wood cutter
-- Everything in the list below `plump helmets`
-    -  All `quivers` - not needed
-    - All crafted wood items (`buckets`, `crutches`, `splints`, `stepladders`, `wheelbarrows`) - very easy to make
-    - All `pig tail` crafts (`thread`, `cloth`, `bags`, `ropes`) - very expensive!
+- ⇨ Remove 1 `copper battle axe` - You'll only need a single copper battle-axe for your wood cutter
+- ⇨ Remove everything in the list below `plump helmets`
+    - ⇨ Remove all `quivers` - not needed
+    - ⇨ Remove all crafted wood items (`buckets`, `crutches`, `splints`, `stepladders`, `wheelbarrows`) - very easy to make
+    - ⇨ Remove all `pig tail` crafts (`thread`, `cloth`, `bags`, `ropes`) - very expensive!
 
 *Note on keeping the anvil:* Many advanced players like to remove the 
 iron anvil and trade for one early on. However, making an anvil requires 
@@ -42,11 +42,11 @@ early-game.  To add an item to the list, press `n` (New) and type the name to fi
 
 Emergency field hospital supplies (in case things get violent).  Ropes for dogs, the well, and a hospital traction bench.  Bags for seeds (since it will take a while for our textile industry to get off the ground).
 
-- 3x `gypsum plaster`
-- 3x `yarn thread`
-- 3x `yard cloth`
-- 4x `sheep wool rope`
-- 10x `sheep wool bag`
+- ⇨ Add 3x `gypsum plaster`
+- ⇨ Add 3x `yarn thread`
+- ⇨ Add 3x `yard cloth`
+- ⇨ Add 4x `sheep wool rope`
+- ⇨ Add 10x `sheep wool bag`
 
 
 #### Animals
@@ -64,23 +64,23 @@ guard dogs to detect and frighten off [thieves] (http://dwarffortresswiki.org/in
 Later, when a few of their pups have grown, we can train more war dogs and 
 assign them to dwarves for protection.
 
-- 2x `war dog ♀`
-- 2x `war dog ♂`
+- ⇨ Add 2x `war dog ♀`
+- ⇨ Add 2x `war dog ♂`
 
 Bring a single **male cat**. Cats kill vermin and so protect your food 
 stocks. Their population can be [difficult to control](Catsplosion 
 "wikilink"), however, so using a tom cat allows 
 [gelding](http://dwarffortresswiki.org/index.php/Gelder "wikilink").
 
-- 1x `cat ♂`
+- ⇨ Add 1x `cat ♂`
 
 **Sheep** are the most versatile livestock - they don't require a lot of 
 pasture, and they are the only starting livestock which can provide wool, 
 milk, meat, bone, hide, and horn (llamas and alpacas are similar, but 
 without the horn, and goats don't produce wool).
 
-- 2x `ewe ♀`
-- 2x `ram ♂`
+- ⇨ Add 2x `ewe ♀`
+- ⇨ Add 2x `ram ♂`
 
 An egg industry is very simple and self-contained way to ensure a steady 
 supply of food. **Blue peafowl** are a balanced choice: 
@@ -90,8 +90,8 @@ grow to maximum size quickly in case you decide to use excess birds in the
 [Meat industry](http://dwarffortresswiki.org/index.php/Meat_industry "wikilink"), and have a moderate but consistent clutch size. 
 Many [other birds](Egg_production#Embark "wikilink") are also perfectly appropriate.
 
-- 2x `blue peahen ♀`
-- 2x `blue peacock ♂`
+- ⇨ Add 2x `blue peahen ♀`
+- ⇨ Add 2x `blue peacock ♂`
 
 You should have about ☼443 remaining.
 
@@ -126,8 +126,8 @@ some time - especially if you embark with only a thin layer of soil, in
 which case you may soon be cursing every meal, siesta and mug of booze 
 that your overworked pick-swingers dare to indulge.
 
-- +5 Points in `Miner` (Miner #1)
-- +5 points in `Miner` (Miner #2)
+- ⇨ +5 Points in `Miner` (Miner #1)
+- ⇨ +5 points in `Miner` (Miner #2)
 
 **3. Stonecrafter/Mechanic**: 
 One dwarf should get 5 points in mechanics and 
@@ -136,8 +136,8 @@ bridges, levers, and traps - all essential in sealing and protecting the
 early fort. Stonecrafting will, among other things, turn abundant stone 
 into food storage and trade goods.
 
-- +5 points in `Stone Crafter`
-- +5 points in `Mechanic`
+- ⇨ +5 points in `Stone Crafter`
+- ⇨ +5 points in `Mechanic`
 
 **4. Mason/Architect**: 
 Building Designer (Architecture) is used in designing certain buildings - 
@@ -149,8 +149,8 @@ be masonry. Stone blocks are going to be necessary in great
 abundance for all manner of building projects, as well as sundry
 stone tables, grates, hatches, chairs, doors, and so on.
 
-- +5 points in `Mason`
-- +5 points in `Building Designer`
+- ⇨ +5 points in `Mason`
+- ⇨ +5 points in `Building Designer`
 
 **5. Carpenter/Woodcutter**:
 In the early game, your carpentry needs are, apart from some odds and ends,
@@ -161,8 +161,8 @@ timber on the ground as possible before those blasted tree-huggers can
 upbraid you for the senseless slaughter of nature's precious children, or 
 whatever.
 
-- +5 points in `Woodcutter`
-- +5 points in `Carpenter`
+- ⇨ +5 points in `Woodcutter`
+- ⇨ +5 points in `Carpenter`
 
 **6. Herbalist/Brewer**: 
 Nearly there. Another dwarf should get 5 points in each of
@@ -174,8 +174,8 @@ have a fair bit of time to frolic in the meadows collecting posies
 of amaranths and baskets of apples to supplement your stocks while
 your fortress's farms are coming online.
 
-- +5 points in `Herbalist`
-- +5 points in `Brewer`
+- ⇨ +5 points in `Herbalist`
+- ⇨ +5 points in `Brewer`
 
 **7. Farmer/Cook**:
 Now, it'll be a little while before you get farms and a kitchen up and
@@ -187,8 +187,8 @@ of labour time. Cooked meals have many benefits - they're worth a
 packet in trade if you can spare them, are easier to store, make
 more things edible, and can add to dwarven happiness.
 
-- +5 points in `Grower`
-- +5 points in `Cook`
+- ⇨ +5 points in `Grower`
+- ⇨ +5 points in `Cook`
 
 
 Once you've assigned all these skills, you should have a few DBs left

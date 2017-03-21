@@ -3,7 +3,7 @@ Getting to work
 
 You can unpause the game now.
 
-- Unpause the game.
+- ⇨ Unpause the game.
 
 Your miners should dig this out pretty quickly, especially if you have a
 few layers of soil so they're not digging straight down into rock.
@@ -17,8 +17,8 @@ jobs which should absolutely be done as soon as possible.
 
 Once the first level of the stairwell is complete, build two ropes as restraints on the diagonal extending out from the inner corner and assign one of your war dogs to each rope. They can roam within 1 tile of the restraint, but no configuration leaves a gap for anything to sneak through:
 
-- Build 2x `Restraint`s (`wool ropes`)
-- Assign one male and one female `war dog` to the `wool ropes`.
+- ⇨ Build 2x `Restraint`s (`wool ropes`)
+- ⇨ Assign one male and one female `war dog` to the `wool ropes`.
 
 ![](images/dog_placement.png "fig:dog_placement.png")
 
@@ -28,22 +28,22 @@ Once the first level of the stairwell is complete, build two ropes as restraints
 Once the cart is deconstructed, make a `Carpenter's Workshop` from one
 of the logs. We will also need a `Metalsmith's Forge` (temporarily using our anvil) and a `Wood Furnace` to eventually build our gate. It's not too imporant where these go, they can be on the surface or, if things are looking dicey, in the stairwell. These are temporary, so it doesn't really matter where they go. By the time we get to ordering their construction, your miners should have some stone available to use.
 
-- Build a temporary `Carpenter's Workshop`
-- Build a temporary `Metalsmith's Forge`
-- Build a temporary `Wood Furnace`
+- ⇨ Build a temporary `Carpenter's Workshop`
+- ⇨ Build a temporary `Metalsmith's Forge`
+- ⇨ Build a temporary `Wood Furnace`
 
 Once the `Carpenter's Workshop` is built, use that to make a wooden hatch from another log. Install the hatch over your one-tile, surface-level entrance.Congratulations! You now have a lockable front door. It won't stop thieves and building destroyers, but at least you can exclude a fair bit of dangerous stuff.
 
-- Build a wooden `Hatch Cover` at the `Carpenter's Workshop` and install over the entrance channel.
+- ⇨ Build a wooden `Hatch Cover` at the `Carpenter's Workshop` and install over the entrance channel.
 
 If you've done all this and your miners still have a long ways to go, by
 all means designate a few nearby trees for felling and/or plants for
 gathering while you wait, but don't get carried away. You'll want a
 small, temporary stockpile nearby for the wood and food.  You could also set the Carpenter's Workshop to make a few beds from the logs.
 
-- Designate some trees for woodcutting
-- Designate some plants for gathering
-- Create a 4x4 food, wood, and finished goods surface stockpile
+- ⇨ Designate some trees for woodcutting
+- ⇨ Designate some plants for gathering
+- ⇨ Create a 4x4 food, wood, and finished goods surface stockpile
 
 Soon, however, your miners should be finished with the large 11 x 11
 room. Pause the game and fill the room with an “everything stockpile”
@@ -53,7 +53,7 @@ up), refuse and corpses (which will cause other objects to decay!).
 Remove any temporary stockpiles on the surface (except the corpse/refuse
 pile).
 
-- Create an everything stockpile in the 11x11 room (exclude `Stone`, `Wood`, `Refuse`, `Corpses`)
+- ⇨ Create an everything stockpile in the 11x11 room (exclude `Stone`, `Wood`, `Refuse`, `Corpses`)
 
 Then, in the same room, designate a 3 x 3 pasture and assign your blue
 peafowl, to keep them safely inside. It's bad to crowd animals, as they
@@ -65,8 +65,8 @@ congregate here, safely underground. You can leave the cat without a
 pasture - it should mostly prowl around your stockpiled food, protecting
 it from vermin.
 
-- Create a 3x3 `Pasture/Pen` zone in the 11x11 room. Assign the peahens and peacocks to it.
-- Create an 8x8 `Meeting Area` zone in the 11x11 room.
+- ⇨ Create a 3x3 `Pasture/Pen` zone in the 11x11 room. Assign the peahens and peacocks to it.
+- ⇨ Create an 8x8 `Meeting Area` zone in the 11x11 room.
 
 Temporarily re-enable hauling labours on your miners so they can help
 bring stuff inside, cancel any wood-cutting or plant-gathering
@@ -74,11 +74,11 @@ designations, and unpause. Your dwarves should rush
 to get everything into the stockpile. When that's done, you can pause
 again, and once again disable hauling for your miners.
 
-- Pause the game.
-- Re-enable `Hauling` on the Miners
-- Disable `Woodcutting` and `Gathering`
-- Unpause the game until everything is hauled inside
-- Pause the game, disable `Hauling` on the Miners
+- ⇨ Pause the game.
+- ⇨ Re-enable `Hauling` on the Miners
+- ⇨ Disable `Woodcutting` and `Gathering`
+- ⇨ Unpause the game until everything is hauled inside
+- ⇨ Pause the game, disable `Hauling` on the Miners
 
 <!-- is enabling hauling on the miners really necessary if we are going to make the farm next? -->
 
@@ -87,10 +87,10 @@ Soil Farming
 
 Instructions on making a farm in the soil level.
 
-- Designate an 11x11 room right off of the **second** ramp section with an `Up/Down Stair` in the very center.
-- Right above that, designate a `Down Stair`
-- Surrounding the `Down Stair`, designate four 3x4 rooms, each diagonally connected to the Down Stair.
-- Follow the section 3 guide to setting up the farms and the 11x11 room with workshops and stockpiles. 
+- ⇨  Designate an 11x11 room right off of the **second** ramp section with an `Up/Down Stair` in the very center.
+- ⇨ Right above that, designate a `Down Stair`
+- ⇨ Surrounding the `Down Stair`, designate four 3x4 rooms, each diagonally connected to the Down Stair.
+- ⇨ Follow the section 3 guide to setting up the farms and the 11x11 room with workshops and stockpiles. 
 
 Made it!
 --------
