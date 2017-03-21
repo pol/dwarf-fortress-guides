@@ -15,10 +15,10 @@ Checking for Threats
 --------------------
 
 So the first order of business is to pause the game (you *have* paused,
-haven't you? Maybe go re-read the [Quickstart
-Guide](http://dwarffortresswiki.org/index.php/Quickstart_Guide "wikilink")…) and check your surroundings for
-threats. On a nice embark, there should be nothing more exciting than
-some fairly mundane wildlife.
+haven't you? Maybe go re-read the 
+[Quickstart Guide](http://dwarffortresswiki.org/index.php/Quickstart_Guide "wikilink")…) and check your surroundings for
+threats (press `u` for units). On a nice embark, there should be nothing 
+more exciting than some fairly mundane wildlife.
 
 If, however, there's anything more interesting on the prowl, you have
 three options. The first is to proceed with your fortress, but do it
@@ -45,6 +45,8 @@ its logs. This is a task for your carpenter, so don't go distracting
 them with any tree-felling jobs or anything. Next, turn off your miners'
 hauling labours - they need to focus!
 
+* designate the wagon for removal (using `q`)
+
 Now before we start chucking things about it's important to make a plan
 for where everything is going to go. Feel free to come up with your own
 design, but there's a particular layout I'm going to recommend because
@@ -52,13 +54,20 @@ it's quite efficient, secure and flexible. I'll illustrate with
 diagrams, each of which shows a bird's-eye view - that is, overseer
 perspective - of a single layer.
 
-First, count tiles to find the centre of the map. This is the location
-of the central axis of your spiral ramp descending down into the
-fortress, but don't dig right here. The entrance should be approximately
-three tiles away, in any cardinal direction (north, south, east, west).
-In these diagrams, I've chosen east. On that single tile, designate a
-channel in the ground. That tile will flash with the underscore
-character.
+First, count tiles to find the centre of the map (or find a spot close to 
+the center, it doesn't have to be exact.  To make it easier, you can mark 
+the center by designating a channel, but using the "Marker Only (`m`)" 
+option, picking a spot on the ground, and designating that spot and 
+several z-levels below it.  That way it's easy to spot the center when you 
+are just starting your layout.  Make sure to go back to "Standard" mode by 
+pressing `m` again before you try to do actual digging. 
+
+The center is the location of the central axis of your spiral ramp 
+descending down into the fortress, but don't dig right here. The entrance 
+should be three tiles away, in any cardinal direction (north, south, east,
+west). In these diagrams, I've chosen east. On that single tile, 
+designate a channel in the ground. That tile will flash with the 
+underscore character.
 
 ![](images/central_square_entrance.png "central_square_entrance.png")
 
@@ -86,6 +95,8 @@ designate a water source.
 
 Next, you'll need a combined stockpile for refuse and corpses (`r` in
 the following diagram) and a pasture zone (`p`):
+
+<!-- Should this be a refuse zone or a refuse stockpile? -->
 
 ![](images/zones_stockpiles.png "zones_stockpiles.png")
 
@@ -142,7 +153,7 @@ shaft, but it has advantages:
 A little extra digging now will save you time and remodelling in the
 long run. A stitch in time, as they say.
 
-Once you're down deep enough (Again, I recommend using the 5th level
+Once you're down deep enough (again, I recommend using the 5th level
 below the lowest water level on your map), we're ready to actually begin
 digging the fortress blueprint. First, designate a large 11 x 11 room on
 the next level down, centred on the central map tile:
