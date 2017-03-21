@@ -1,3 +1,9 @@
+# Useful Links
+## http://dwarffortresswiki.org/index.php/User:Mixtrak/Strategy
+## http://dwarffortresswiki.org/index.php/User:Mixtrak/Strategy/part_1
+## http://dwarffortresswiki.org/index.php/User:Mixtrak/Strategy/part_2
+## http://dwarffortresswiki.org/index.php/User:Mixtrak/Strategy/part_3
+
 # Just a list of the files to be composed into the guide.
 
 # Intro Chapter
@@ -8,7 +14,10 @@ worldgen_site_civ.md
 embark.md
 
 # Part 2: Establish a foothold
-part2.md
+# part2.md
+check-site.md
+strike-the-earth.md
+getting-to-work.md
 
 # Part 3: Begin Economy (Wood and Stone)
 part3.md
