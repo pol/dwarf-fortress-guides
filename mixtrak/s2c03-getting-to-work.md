@@ -78,7 +78,7 @@ again, and once again disable hauling for your miners.
 - ⇨ Re-enable `Hauling` on the Miners
 - ⇨ Disable `Woodcutting` and `Gathering`
 - ⇨ Unpause the game until everything is hauled inside
-- ⇨ Pause the game, disable `Hauling` on the Miners
+- ⇨ Pause the game, disable `Hauling` on the Miners, next section!
 
 <!-- is enabling hauling on the miners really necessary if we are going to make the farm next? -->
 
