@@ -109,8 +109,10 @@ flexibility. If you later want to dig a moat around your fortress
 entrance, having a buffer of un-mined layers avoids annoying fortress
 remodelling.
 
-That said, I'd recommend repeating the spiral pattern until you're at
-least five layers beneath the lowest water-point on the map. So the next
+That said, the guide is expecting that you will repeat the spiral ramp 
+pattern down until you are at least 5 layers beneath the lowest 
+water-point on the map **and** you have hit stone.  Depending on your site,
+you may have to go deeper than 5 layers. So the next
 layer would look like so:
 
 ![](images/stairwell_2.png "stairwell_2.png")
@@ -130,7 +132,7 @@ shaft, but it has advantages:
 A little extra digging now will save you time and remodelling in the
 long run. A stitch in time, as they say.
 
-- ⇨ Continue `mining` and `channeling` the spiral ramp down until at least 5 layers below the lowest water. 
+- ⇨ Continue `mining` and `channeling` the spiral ramp down until at least **5 layers below the lowest water** and **you have hit stone**. 
 
 Once you're down deep enough, we're ready to actually begin
 digging the fortress blueprint. First, designate a large 11 x 11 room on
