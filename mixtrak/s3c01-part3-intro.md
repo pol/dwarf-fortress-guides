@@ -7,6 +7,8 @@ industries, not necessarily in the order they should be pursued, so read
 the whole guide to get a sense of how your dwarves should be allocating
 their time. Don't worry, other sections should all be more brief!
 
+- ⇨ You should be paused. 
+
 ------------------------------------------------------------------------
 
 Ah, excellent! Everything's securely inside, behind a stout wagon-wood
