@@ -49,12 +49,12 @@ of it is doing:
 
 -   In this main level, there are a few large, 11 x 11 rooms with
     smaller storage attached, which makes it easy to create “districts”
-    devoted to a particular industries and [organised processing
-    chains](http://dwarffortresswiki.org/index.php/Workshop_design "wikilink").
+    devoted to a particular industries and 
+    [organised processing chains](http://dwarffortresswiki.org/index.php/Workshop_design "wikilink").
 -   The lighter-grey tiles in the gaps between rooms are actually
-    plumbing ducts, so remember where they go but don't mine them out
-    just now. We'll soon divert some water from the river for farms,
-    wells, hospitals, and so forth.
+    plumbing ducts, so remember where they go but don't mine them out. 
+    We'll soon divert some water from the river for farms, wells, 
+    hospitals, and so forth.
 -   The X in the middle of each large corner room indicates up/down
     stairs. Yes, this design extends to the level above and below, and
     yes, it's alright to use stairs as long as you don't stack a pile of
@@ -83,20 +83,28 @@ of it is doing:
 rest of your dwarves shouldn't be standing idle. I have jobs for them in
 the next sections, so read ahead before unpausing…)
 
-The lowest-oversight way to proceed is to go ahead and designate that
-pattern, then unpause and let your miners get to work. If you haven't
-got stone on this level, then it's probably easiest to keep digging
-until you hit some, then lay out this pattern on the stone layer. As the
-miners dig, they'll unearth a few interesting gems and bits of ore, but
-for now, just leave them where they fall. Due to some quirks of
-[Miner\#Mining behaviour](http://dwarffortresswiki.org/index.php/Miner#Mining_behaviour "wikilink"), you'll
-actually get individual rooms completed more quickly if you only
-designate a few at a time. Personally, I'd rather sit on a minotaur's
-horn than designate tiny areas so frequently, but maybe at least do one
-of the large corner rooms in this fashion.
+- ⇨ Read ahead through the rest of the Stone Industry section before unpausing.
 
-Once the miners have finished this layer, go ahead and mine out the
-follow pattern on the levels above and below:
+<!-- there is no way that the miners will be done mining the stone *and* wood quarters before people need something to do. -->
+
+The lowest-oversight way to proceed is to go ahead and designate that whole
+pattern, but leave the connecting hallways un-designated so that you can focus your miners on working district by district.  We will be starting with the north-west quadrant: the stone disctrict. Once you are ready, unpause and let your miners get to work.  As the
+miners dig, they'll unearth a few interesting gems and bits of ore, but
+for now, just leave them where they fall. 
+
+Due to some quirks of
+[Miner\#Mining behaviour](http://dwarffortresswiki.org/index.php/Miner#Mining_behaviour "wikilink"),
+you'll actually get individual rooms completed more quickly if you only
+designate a few at a time.  You can get this behavior by either 1) designating small areas at a time, or 2)  that's the reason for keeping a line of hallway stone un-designated for the districts we aren't working on yet. If you want to get a jump-start on the stockpiles and workshops, have the miners do the 11x11 room first, then designate the upper,lower, and side rooms. Personally, I'd rather sit on a minotaur's horn than designate tiny areas so frequently, but maybe at least do one of the large corner rooms in this fashion.
+
+- ⇨ Optionally undesignate doorways leading to the three doorways leading to the districts we aren't working on yet.
+- ⇨ Unpause the Game 
+- ⇨ Pause the game if the miners get done with the 11x11 main floor room  to work on building the stone district workshops.
+
+While the miners are working on the middle floor of the district, you can start designating the upper and lower floors for this layer.  However, you may want to leave the :
+
+- ⇨ Designate the pattern for the upper and lower floors of the layer. 
+- ⇨ Let the miners continue working on the upper and lower floors after they have finished the first 11x11 room.
 
 ![](images/2_upper_lower_layers.png "2_upper_lower_layers.png")
 
@@ -119,6 +127,8 @@ advice is *seal them off and never speak of them again*. They are very
 dangerous! If you get to this stage you can keep your miners busy
 chasing veins of ores and gems.
 
+<!-- is there really time to chase ore and gems at this stage? -->
+
 So, while your miners are digging away, what about the rest of your
 frontiersdwarves? First, let's talk about securing that entrance. We're
 going to need stone blocks for walls and a roof around the entrance, and
@@ -129,3 +139,5 @@ iron ingots for the bridge, and make the other into a fire-proof
 mechanism. As long as you're quick enough with the drawbridge lever,
 that'll keep out everything except ghosts. But there's a bit of a chain
 of production that needs to happen to get all that in place.
+
+This construction will make use of our temporary workshops that we built near the surface.
