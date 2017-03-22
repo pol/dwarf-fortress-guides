@@ -7,17 +7,17 @@
 # Just a list of the files to be composed into the guide.
 
 # Intro Chapter
-intro.md
+00-intro.md
 
 # Part 1: Worldgen and Embark
-worldgen_site_civ.md
-embark.md
+01-worldgen_site_civ.md
+02-embark.md
 
 # Part 2: Establish a foothold
 # part2.md
-check-site.md
-strike-the-earth.md
-getting-to-work.md
+03-check-site.md
+04-strike-the-earth.md
+05-getting-to-work.md
 
 # Part 3: Begin Economy (Wood and Stone)
 part3.md
