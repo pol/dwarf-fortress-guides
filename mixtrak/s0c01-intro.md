@@ -160,3 +160,15 @@ your dwarves, trade, and allocation of labours.
 
 [Mixtrak](http://dwarffortresswiki.org/index.php/User:Mixtrak "wikilink")
 ([talk](http://dwarffortresswiki.org/index.php/User_talk:Mixtrak "wikilink")) 07:07, 15 March 2017 (UTC)
+
+Possible Action Icons:
+<pre>
+- &#8680; Right White Arrow
+- &#9874; Hammer and Pick
+- &#9935; Pick
+- &rArr; Heavy Right Arrow
+- &rarr; Right Arrow
+- &#8620; Arrow with Loop
+- &#8627; Corner Arrow
+- &#8649; Double Arrow
+</pre>
