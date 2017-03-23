@@ -79,12 +79,12 @@ like so:
 
 We're going to have a different seasonal rotation in each one.
 
-  Plot     | Summer     | Autumn       | Winter          | Spring
-  -------- | ---------- | ------------ | --------------- | -------------
-  **P1**   | Pig tail   | Pig tail     | Dimple cups     | Sweet pod
-  **P2**   | Pig tail   | Cave wheat   | Dimple cups     | Quarry bush
-  **P3**   | Pig tail   | Pig tail     | Plump helmets   | Sweet pod
-  **P4**   | Pig tail   | Cave wheat   | Plump helmets   | Quarry bush
+  Plot     | Spring      | Summer     | Autumn       | Winter          
+  -------- | ---------   | ---------- | ------------ | --------------- 
+  **P1**   | Sweet pod   | Pig tail   | Pig tail     | Dimple cups     
+  **P2**   | Quarry bush | Pig tail   | Cave wheat   | Dimple cups     
+  **P3**   | Sweet pod   | Pig tail   | Pig tail     | Plump helmets   
+  **P4**   | Quarry bush | Pig tail   | Cave wheat   | Plump helmets   
 
 You want extra pig tails for the textile and paper industries later on.
 This growing pattern won't need much tinkering with as the fortress
@@ -94,6 +94,8 @@ In the inside corner of the large 11 x 11 room, designate a 3 x 4 food
 stockpile and restrict it to just allow the seeds for these six plants.
 
 ![](images/16_seeds.png "16_seeds.png")
+
+<!-- When you "Block All" it will automatically turn off the prepared foods option.  You don't need to unselect it. -->
 
 Don't forget to turn off the special option “Prepared food” by pressing
 from the stockpile's options, and also set the max barrel in this
@@ -115,7 +117,7 @@ for future milling operations. The setup looks like this:
 -   `w`: Farmer's workshop
 -   `l`: Still
 -   `u`: Furniture stockpile, set to only accept wooden and stone
-    barrels and pots, and taking from the stone pot stockpile and the
+    `barrels` and `large pots/food storage`, and taking from the stone pot stockpile and the
     wooden barrel stockpile. This stockpile also gives to the farmer's
     workshop and the still.
 -   `f1`: Food stockpile set to accept only the brewable underground
