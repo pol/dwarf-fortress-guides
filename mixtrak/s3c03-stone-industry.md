@@ -1,15 +1,15 @@
-The stone industry
+The Stone District
 ------------------
 
 The first and easiest thing is the stone industry (but this is a long
-section). Your miners will soon be producing more stone than you can
-handle, so when one of the larger rooms in the mid-layer is finished,
-build a some relevant workshops and surround them with a stone
-stockpile. My preferred layout is as follows:
+section since we begin teaching stockpile mechanics). Your miners will soon 
+be producing more stone than you can handle, so when one of the larger rooms 
+in the mid-layer is finished, build a some relevant workshops and surround 
+them with a stone stockpile. My preferred layout is as follows:
 
 ![](images/3_stone_workshops.png "3_stone_workshops.png")
 
-This diagram shows the upper-left quadrant of the middle layer.
+This is the Stone District Workshop Room (the north-west corner of the Middle floor that we just mined out). 
 
 `s` = stone stockpile
 
@@ -17,10 +17,14 @@ This diagram shows the upper-left quadrant of the middle layer.
 masons soon)
 
 `b` = block stockpile
+<!-- TODO: there isn't actually a block stockpile! -->
 
 `x` = mechanic's workshop
+<!-- TODO: use 't' for mechanic -->
 
 `r` = craftsdwarf's workshop
+
+<!-- TODO: why designate the stockpile first, it's much easier to put the workshops in, then designate the stockpile over everything? -->
 
 Designate the 11 x 11 stone stockpile first, then make 3 x 3 cutouts for
 the workshops. Exactly which workshop goes in which 3 x 3 space doesn't
@@ -33,6 +37,12 @@ is faster, because you will now go into stockpile options and assign it
 three wheelbarrows. Even so, your craftsdwarves will often use up the
 stone faster than it can be hauled, so a large stone stockpile gives you
 decent reserves.
+
+- &#8680; Place 2x `Mason's Workshops` on the east side of the room.
+- &#8680; Place a `Mechanic's Workshop` in the north-west corner of the room.
+- &#8680; Place a `Craftsdwarf's Workshop` in the south-west corner of the room.
+- &#8680; Designate the rest of the room to be a stone stockpile, set the stockpile to give to the workshops.
+- &#8680; Assign 3x `wheelbarrows` to the stone stockpile
 
 ### A Subtle Appreciation of Stone
 
@@ -140,6 +150,8 @@ get a smaller pile than stone because, although we need a lot, they can
 be stacked fairly efficiently in bins. Again, go into the stockpile
 settings and turn off everything except the blocks made of the stones
 allowed in your stone stockpile.
+
+<!-- NOTE: not sure where this block stockpile is -->
 
 For the other products of these workshops, we'll use the layers above
 and below. On each of those layers we'll have 1 x large space and 4 x
