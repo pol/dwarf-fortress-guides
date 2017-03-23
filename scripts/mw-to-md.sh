@@ -11,7 +11,7 @@ if ! which pandoc 2> /dev/null; then
 fi
 
 
-for i in mediawiki/*.mw; do
+for i in $1/*.mw; do
   echo "Processing $i..."
   cat $i | \
   sed 's/class = "/class="/g' | \
