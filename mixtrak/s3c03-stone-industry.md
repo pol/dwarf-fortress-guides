@@ -114,16 +114,17 @@ allowed in your stone stockpile.
 
 <!-- NOTE: not sure where this block stockpile is -->
 
-For the other products of these workshops, we'll use the layers above
-and below. On each of those layers we'll have 1 x large space and 4 x
-medium spaces to work with (so 2 + 8). In addition, there's a medium
-room in the middle layer across the corridor from the blocks, and two
-more at the end of that corridor But what should go where? There's a
-confusing diversity of products from the mason's and (in particular) the
+For the other products of these workshops, we'll use the floors above
+and below. On each of those floors we'll have 1 x large space (A1 and B1) and 4 x
+medium spaces (A2-4, B2-5) to work with (so ten total upper and lower rooms). 
+
+On the Main floor, there are 4 medium rooms (M2-5), and two small rooms (M6,7).  But what should go where? There's a confusing diversity of products from the mason's and (in particular) the
 craftsdwarf's workshops. Again, our principle should be to disallow
-everything, and the allow only what we have and need right now (or in
+everything, and then allow only what we have and need right now (or in
 the near future). Taking that into consideration, here is my recommended
-allocation. In the diagram below, each room is referenced in the figure.  The stockpile in the room is denoted with “u” denotes for a `Furniture` stockpile, and “g” for a `Finished Goods` stockpile.
+allocation. 
+
+In the layout diagram below, each room is labeled for use in the table below.  The stockpile "Type" column is “u”  for a `Furniture` stockpile, and “g” for a `Finished Goods` stockpile.
 
 ```
 {{diagram|spaces=yes|\
@@ -140,7 +141,7 @@ allocation. In the diagram below, each room is referenced in the figure.  The st
 ¦           ¦B3   ¦  ¦  ¦ rrr   mmm                 ¦  ¦  ¦           ¦A3   ¦
 ¦           ¦-----+  ¦  ¦ rrr   mmm +-+---+   +---+-+  ¦  ¦           ¦-----+
 ¦           ¦        ¦  ¦           ¦ ¦ M6¦   ¦M7 ¦    ¦  ¦           ¦ 
-+--- + -----+        ¦  +-----------+ ¦   ¦   ¦   ¦    ¦  +--- + -----+ 
++--- + -----+        ¦  +-----------+ ¦   +   +   ¦    ¦  +--- + -----+ 
 ¦    ¦    ¦          ¦                ¦           ¦    ¦  ¦    ¦    ¦  
 ¦    ¦    ¦          ¦                +----+ +----+    ¦  ¦    ¦    ¦  
 ¦    ¦    ¦          ¦                                 ¦  ¦    ¦    ¦  
@@ -170,7 +171,7 @@ A3 | g | Toys
 A4 | g | Musical Instruments
 A5 | g | Crafts for trade goods (figurines, amulets, scepters, crowns, rings, earrings, bracelets)
 
-<!-- TODO: cabinets and bins are separate from 'boxes and bags'
+<!-- TODO: cabinets and bins are separate from 'boxes and bags' -->
 
 - &#8680; Build all of the Stone District stockpiles.
 - &#8680; As you specify the stockpiles, disallow those items from your central stockpile in the ramp room.  
