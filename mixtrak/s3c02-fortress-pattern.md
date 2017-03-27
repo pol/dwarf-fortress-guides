@@ -70,8 +70,8 @@ of it is doing:
     [organised processing chains](http://dwarffortresswiki.org/index.php/Workshop_design "wikilink").
 -   **3 Floors per District: Main, Attic, Basement**
     - The X in the middle of each large corner room indicates up/down
-    stairs. Yes, this design extends to the level above (attic) and below 
-    (basement), and yes, it's alright to use stairs as long as you don't 
+    stairs. Yes, this design extends to the level above (upper floor) and below 
+    (lower floor), and yes, it's alright to use stairs as long as you don't 
     stack a pile of them on top of one another.
 -   **Plumbing** 
     - The lighter-grey tiles in the gaps between rooms are actually
@@ -140,11 +140,11 @@ south, and east doors).
 Room to designate the stockpiles and workshops of the room (next section).
 
 While the miners are working on the middle floor of the district, you can 
-start designating the upper (attic) and lower (basement) floors for this 
+start designating the upper and lower floors for this 
 layer. Keep in mind that you might want the miners to finish the District 
-Main room first before going on to the attic and basement.
+Main room first before going on to the Upper and Lower floors
 
-#### Attic and Basement Floors
+#### Upper and Lower Floors
 
 ![](images/2_upper_lower_layers.png "2_upper_lower_layers.png")
 
@@ -156,18 +156,18 @@ your spiral ramp may happen to be in a different orientation to mine -
 it doesn't matter, as long as it lines up with the levels above and
 below!
 
-- ⇨ Designate the pattern for the Attic and Basement floors of the layer. 
-    - Identical except for: The Attic corner rooms get `Down Stairs`, and 
-    the Basement corner rooms get `Up Stairs`
+- ⇨ Designate the pattern for the Upper and Lower floors of the layer. 
+    - Identical except for: The Upper floor corner rooms get `Down Stairs`, 
+    and the Lower floor corner rooms get `Up Stairs`
 - ⇨ Let the miners finish the Workshop Room (11x11) before ordering the 
-construction of the Attic and Basement floors.
+construction of the Upper and Lower floors.
 
 Once the three-floor design has been dug out, you can expand it by 
 repeating it vertically, with a gap between each set of three floors. For 
 example, if we denote `=` as a gap layer (with a section of the spiral ramp 
-only), `M` as the Main layer where we began, `A` for Attic, and `B` for 
-Basement, then vertically from the top down, the pattern would go: 
-`Surface===...=AMB=AMB=AMB=...` and so forth. Each layer of three floors 
+only), `M` as the Main layer where we began, `U` for Upper floor, and `L` for 
+Lower floor, then vertically from the top down, the pattern would go: 
+`Surface===...=UML=UML=UML=...` and so forth. Each layer of three floors 
 will be composed of four Districts, which can be used for whatever you need.
 
 Later on, you can keep your miners going in this manner until they hit the 

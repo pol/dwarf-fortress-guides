@@ -74,7 +74,7 @@ The Lightest Stone | `jet` | Jet is the *lightest* stone in the game, so it's be
 
 If you're lucky enough to find `jet`, you can make a dedicated stockpile somewhere which gives to a dedicated craftsdwarves' workshop and only make your stone pots from this workshop. There's a speed benefit to using the jet as soon as you find it, but you may also wish to use heavier materials for now and save your jet for more skilled craftsdwarves which will be able to do the material justice. More mature fortresses with ordinary [Clay](http://dwarffortresswiki.org/index.php/Clay "wikilink") (not fire clay) on the map have an alternative, which is to make earthenware pots (essentially the same weight); these are more costly to produce, however, since you need a potter, a glazer, some glazing material, a pottery kiln, and one unit of fuel each for firing the clay and glazing the pot.
 
-<!-- TODO: write recommendations for a jet workshop and stockpile.  Idea: Put the workshop in the Stone District basement pot stockpile room with a small Jet stockpile surrounding it. -->
+<!-- TODO: write recommendations for a jet workshop and stockpile.  Idea: Put the workshop in the Stone District lower floor pot stockpile room with a small Jet stockpile surrounding it. -->
 
 Finally, after setting the stockpile options to allow *only* the stones
 which are both present on your map and not reserved for any of the uses
@@ -128,9 +128,9 @@ In the layout diagram below, each room is labeled for use in the table below.  T
 
 ```
 {{diagram|spaces=yes|\
-      Basement       ¦                Main             ¦         Attic
+     Lower           ¦              Middle             ¦       Upper
 +-----------+-----+  ¦  +-----------+-----+   +-----+  ¦  +-----------+-----+
-¦B1         ¦B2   ¦  ¦  ¦M1         ¦M2   ¦   ¦M3   ¦  ¦  ¦A1         ¦A2   ¦
+¦L1         ¦L2   ¦  ¦  ¦M1         ¦M2   ¦   ¦M3   ¦  ¦  ¦U1         ¦U2   ¦
 ¦           ¦     ¦  ¦  ¦ xxx   mmm ¦     ¦   ¦     ¦  ¦  ¦           ¦     ¦
 ¦           ¦     ¦  ¦  ¦ xxx   mmm ¦     +---+     ¦  ¦  ¦           ¦     ¦
 ¦                 ¦  ¦  ¦ xxx   mmm ¦               ¦  ¦  ¦                 ¦
@@ -138,26 +138,25 @@ In the layout diagram below, each room is labeled for use in the table below.  T
 ¦     >           ¦  ¦  ¦     X     ¦M4   ¦   ¦M5   ¦  ¦  ¦     <           ¦
 ¦           ¦     ¦  ¦  ¦           ¦     ¦   ¦     ¦  ¦  ¦           ¦     ¦
 ¦           ¦     ¦  ¦  ¦ rrr   mmm +     +   +     ¦  ¦  ¦           ¦     ¦
-¦           ¦B3   ¦  ¦  ¦ rrr   mmm                 ¦  ¦  ¦           ¦A3   ¦
+¦           ¦L3   ¦  ¦  ¦ rrr   mmm                 ¦  ¦  ¦           ¦U3   ¦
 ¦           ¦-----+  ¦  ¦ rrr   mmm +-+---+   +---+-+  ¦  ¦           ¦-----+
 ¦           ¦        ¦  ¦           ¦ ¦ M6¦   ¦M7 ¦    ¦  ¦           ¦ 
-+--- + -----+        ¦  +-----------+ ¦   +   +   ¦    ¦  +--- + -----+ 
++--- + -----+        ¦  +-----------+ ¦   ¦   ¦   ¦    ¦  +--- + -----+ 
 ¦    ¦    ¦          ¦                ¦           ¦    ¦  ¦    ¦    ¦  
 ¦    ¦    ¦          ¦                +----+ +----+    ¦  ¦    ¦    ¦  
 ¦    ¦    ¦          ¦                                 ¦  ¦    ¦    ¦  
 ¦    ¦    ¦          ¦                                 ¦  ¦    ¦    ¦ 
-¦B4  ¦B5  ¦          ¦                                 ¦  ¦A4  ¦A5  ¦ 
-+----+----+          ¦                                 ¦  +----+----+ 
-}}
+¦L4  ¦L5  ¦          ¦                                 ¦  ¦U4  ¦U5  ¦ 
++----+----+          ¦                                 ¦  +----+----+ }}
 ```
 
 Room | Type | Designation
 ---- | ---- | -----------
-B1 | u | Large Pots: `large pots/food storage`
-B2 | u | Less-used barriers: `floodgates`, `hatch covers`, `grates`
-B3 | u | (semi-)Functional furniture: `traction benches`, `querns`, `millstones`, `armour stands`, `weapon racks`
-B4 | u | Storage: `boxes and bags`, `cabinets`
-B5 | u | Dining: `tables` & `thrones` (chairs) 
+L1 | u | Large Pots: `large pots/food storage`
+L2 | u | Less-used barriers: `floodgates`, `hatch covers`, `grates`
+L3 | u | (semi-)Functional furniture: `traction benches`, `querns`, `millstones`, `armour stands`, `weapon racks`
+L4 | u | Storage: `boxes and bags`, `cabinets`
+L5 | u | Dining: `tables` & `thrones` (chairs) 
 M1 | u | Main Stone Storage & Workshops
 M2 | g | Mugs (goblets in the menu)
 M3 | g | Tools, which includes nest boxes for now, and eventually bookshelves and hives
@@ -165,11 +164,11 @@ M4 | b | Block storage: `blocks and slabs`
 M5 | u | Doors
 M6 |   | Dormitory
 M7 |   | Dormitory
-A1 | u | Mechanisms: `mechanisms`
-A2 | u | Decorations/memorials: `coffins`, `statues`, `slabs`
-A3 | g | Toys
-A4 | g | Musical Instruments
-A5 | g | Crafts for trade goods (figurines, amulets, scepters, crowns, rings, earrings, bracelets)
+U1 | u | Mechanisms: `mechanisms`
+U2 | u | Decorations/memorials: `coffins`, `statues`, `slabs`
+U3 | g | Toys
+U4 | g | Musical Instruments
+U5 | g | Crafts for trade goods (figurines, amulets, scepters, crowns, rings, earrings, bracelets)
 
 <!-- TODO: cabinets and bins are separate from 'boxes and bags' -->
 
