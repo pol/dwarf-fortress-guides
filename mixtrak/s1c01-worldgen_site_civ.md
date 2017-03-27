@@ -20,16 +20,16 @@ that these aspects of performance tend to degrade exponentially with
 world size and complexity.
 
 You may wish to consult the [Map legend](http://dwarffortresswiki.org/index.php/Map_legend "wikilink") to
-understand the result a bit better. When you're done, hit to save the
+understand the result a bit better. When you're done, hit `Enter` to save the
 world and return to the main menu.
 
 Now that your world is done baking you could, if you desired, dive right
-in with [Dwarf fortress mode](http://dwarffortresswiki.org/index.php/Dwarf_fortress_mode "wikilink"). However,
-I prefer to learn a bit more about the various dwarven civilisations
-before I choose one to play. If you'd like to do the same, look into installing [DFhack](http://dwarffortresswiki.org/index.php/Utility:DFHack "wikilink") and using the [Legends
-Viewer](http://www.bay12forums.com/smf/index.php?topic=154617.0) to look at the various civilizations
-and their stories.  Note: if you do start a fortress mode game in your new world, you will not
-be able to see the legends without abandoning your fortress (the game modes are exclusive). 
+in with [Dwarf fortress mode](http://dwarffortresswiki.org/index.php/Dwarf_fortress_mode "wikilink"). 
+However, I prefer to learn a bit more about the various dwarven civilisations
+before I choose one to play. If you'd like to do the same, look into installing [DFhack](http://dwarffortresswiki.org/index.php/Utility:DFHack "wikilink") and using the 
+[Legends Viewer](http://www.bay12forums.com/smf/index.php?topic=154617.0) to look at the various 
+civilizations and their stories.  Note: if you do start a fortress mode game in your new world, you 
+will not be able to see the legends without abandoning your fortress (the game modes are exclusive). 
 
 Choosing a site
 ---------------
@@ -43,17 +43,17 @@ To search for a site with these characteristics, press `f` (Find Desired Locatio
 
 **Required**
 
-- ⇨ Soil: Some ([for agriculture](http://dwarffortresswiki.org/index.php/Stone_layers#Soil "wikilink"))
-- ⇨ Clay: Yes
+- ⇨ Flux Stone Layer: Yes ([for iron and steel](http://dwarffortresswiki.org/index.php/Flux "wikilink"))
 - ⇨ Aquifer: No ([useful but complex/dangerous](http://dwarffortresswiki.org/index.php/Aquifer "wikilink")))
 - ⇨ Shallow Metal: Yes ([for metal industry](http://dwarffortresswiki.org/index.php/Ore "wikilink"))
-- ⇨ Flux Stone Layer: Yes ([for iron and steel](http://dwarffortresswiki.org/index.php/Flux "wikilink"))
+- ⇨ Soil: Some ([for agriculture](http://dwarffortresswiki.org/index.php/Stone_layers#Soil "wikilink"))
+- ⇨ Clay: Yes
 
 **Preferred**
 
 - ⇨ Savagery: Low ([not too dangerous](http://dwarffortresswiki.org/index.php/Surroundings "wikilink"))
-- ⇨ Temperature: Medium ([a moderate temperature](http://dwarffortresswiki.org/index.php/Biome))
 - ⇨ Evil: Low (avoid necromancer's towers for now)
+- ⇨ Temperature: Medium ([a moderate temperature](http://dwarffortresswiki.org/index.php/Biome))
 - ⇨ Deep Metal: Yes
 
 If you don't find anything, make a note of what items are showing up in red, and adjust the "Preferred" items above until you find a site.  If you still can't find a site with the Preferred items all set to N/A,  you can either generate a new world, or you can remove a required feature. Playing without a required feature will require being creative and going outside the guide (for example, you will have to trade for clay instead of mining it).
