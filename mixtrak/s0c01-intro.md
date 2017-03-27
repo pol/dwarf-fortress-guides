@@ -144,22 +144,17 @@ recommendations in this guide, so don't be confused by the differences.
 Strategy Guide Parts
 --------------------
 
-[Part 1](http://dwarffortresswiki.org/index.php/User:Mixtrak/Strategy/part_1 "wikilink") covers world
-generation, choosing a civilisation and site, provisioning your dwarves,
-and allocating skills
+[Part 1](http://dwarffortresswiki.org/index.php/User:Mixtrak/Strategy/1_worldgen_embark) covers world generation, choosing a civilisation and site, provisioning your dwarves, and allocating skills
 
-[Part 2](http://dwarffortresswiki.org/index.php/User:Mixtrak/Strategy/part_2 "wikilink") covers the initial
-settling-in period at your new map, that is, the mad scurry to get a
-door between your dwarves and the wildlife
+[Part 2](http://dwarffortresswiki.org/index.php/User:Mixtrak/Strategy/2_get_inside_secure) covers the initial settling-in period at your new map; assessing threats and the mad scurry to put something between your dwarves and the wildlife
 
-[Part 3](http://dwarffortresswiki.org/index.php/User:Mixtrak/Strategy/part_3 "wikilink") is (currently) very
-long indeed, and sets up early security and self-sufficiency.
+[Part 3](http://dwarffortresswiki.org/index.php/User:Mixtrak/Strategy/3_victuals_security) covers your basic needs - victuals and security
 
-The next part (in development) will probably cover basic amenities for
-your dwarves, trade, and allocation of labours.
+[Part 4](http://dwarffortresswiki.org/index.php/User:Mixtrak/Strategy/4_blueprint_stone_wood) covers the basic fortress blueprint and setting up a stone and wood industry
 
-[Mixtrak](http://dwarffortresswiki.org/index.php/User:Mixtrak "wikilink")
-([talk](http://dwarffortresswiki.org/index.php/User_talk:Mixtrak "wikilink")) 07:07, 15 March 2017 (UTC)
+[Part 5](http://dwarffortresswiki.org/index.php/User:Mixtrak/Strategy/5_food_plumbing) sets up a plant-based food industry, including farms and irrigation
+
+The next part (in development) will prepare equipment for your military.
 
 Possible Action Icons:
 <pre>
