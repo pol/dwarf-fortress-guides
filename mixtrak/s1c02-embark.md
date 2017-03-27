@@ -9,7 +9,7 @@ There are a few more long-term considerations as well, particularly as
 regards to crucial supplies which are, for one reason or another,
 difficult to manufacture early in the game. You have the strangely
 specific sum of 1,504 copper [Dwarfbucks](http://dwarffortresswiki.org/index.php/Currency "wikilink")
-(sometimes written as “DB”s or with the symbol `☼`) to allocate between
+(sometimes written as “DB”s or with the symbol "&#9788;") to allocate between
 supplies and skills.
 
 From the initial embark screen, choose the "Prepare for the journey carefully." option.  The guide below is a change to that initial setup, so choosing a different embark may start you out missing some items!
@@ -38,13 +38,13 @@ industry. Also, the guide will assume you have one available.
 #### Items to Add
 
 Now for some useful items which are somewhat difficult to obtain in
-early-game.  To add an item to the list, press `n` (New) and type the name to find it.
+early-game.  To add an item to the list, press `n` (New) and *type the name* to find it.
 
 Emergency field hospital supplies (in case things get violent).  Ropes for dogs, the well, and a hospital traction bench.  Bags for seeds (since it will take a while for our textile industry to get off the ground).
 
 - ⇨ Add 3x `gypsum plaster`
-- ⇨ Add 3x `yarn thread`
-- ⇨ Add 3x `yard cloth`
+- ⇨ Add 3x `sheep wool yarn`
+- ⇨ Add 3x `sheep wool cloth`
 - ⇨ Add 4x `sheep wool rope`
 - ⇨ Add 10x `sheep wool bag`
 
@@ -57,10 +57,11 @@ single male-female pair of animals we want to breed, because it
 *is* possible for animals to be exclusively homosexual or
 asexual. We'll need two of each sex for redundancy.  
 
-<!-- adding animals in order they appear in the list -->
+<!-- adding animals in order they appear in the in-game list -->
 
 **War dogs** serve two important functions. First, we will be using them as 
-guard dogs to detect and frighten off [thieves] (http://dwarffortresswiki.org/index.php/Thief "wikilink"). 
+guard dogs to detect and frighten off 
+[thieves] (http://dwarffortresswiki.org/index.php/Thief "wikilink"). 
 Later, when a few of their pups have grown, we can train more war dogs and 
 assign them to dwarves for protection.
 
@@ -87,7 +88,8 @@ supply of food. **Blue peafowl** are a balanced choice:
 they live an extremely 
 long time so you won't have to worry about replacing them for a while, 
 grow to maximum size quickly in case you decide to use excess birds in the
-[Meat industry](http://dwarffortresswiki.org/index.php/Meat_industry "wikilink"), and have a moderate but consistent clutch size. 
+[Meat industry](http://dwarffortresswiki.org/index.php/Meat_industry "wikilink"), 
+and have a moderate but consistent clutch size. 
 Many [other birds](Egg_production#Embark "wikilink") are also perfectly appropriate.
 
 - ⇨ Add 2x `blue peahen ♀`
@@ -97,20 +99,24 @@ You should have about ☼443 remaining.
 
 ### Dwarf Skills
 
-Now it's time to assign [skills](http://dwarffortresswiki.org/index.php/Skill "wikilink") to your dwarves,
-which will determine which [labours](http://dwarffortresswiki.org/index.php/Labor "wikilink") they will carry
+Now it's time to assign 
+[skills](http://dwarffortresswiki.org/index.php/Skill "wikilink") to your dwarves,
+which will determine which 
+[labours](http://dwarffortresswiki.org/index.php/Labor "wikilink") they will carry
 out in your fortress. The following list covers all the essential core
 skills for a self-sufficient fort, and matches them by workload (so a
 high-demand job, like `Mason`, is matched with a seldom-needed job, like
-`Building Designer`).  Each point you use
+`Building Designer`). 
 
 As for which dwarves are suited for which labour, that's complicated.
 Check the dwarves' [Thoughts and
 Preferences](Thoughts_and_Preferences "wikilink") pages by pressing `v` (View). If they like a
 material or product associated with a particular skill (e.g. oak wood,
 mugs, quarry bush leaves) then it's a good bet to match those up. Other
-[characteristics](http://dwarffortresswiki.org/index.php/Personality_trait "wikilink") can also be
-[important](http://dwarffortresswiki.org/index.php/Attributes "wikilink") - you ideally want miners who are
+[characteristics](http://dwarffortresswiki.org/index.php/Personality_trait "wikilink") 
+can also be
+[important](http://dwarffortresswiki.org/index.php/Attributes "wikilink") - 
+you ideally want miners who are
 slow to tire, for example. The wiki pages for individual skills list the
 attributes they require and train, if you're interested. On the whole,
 however, it's not likely to make an enormous difference. By all means
@@ -161,21 +167,21 @@ timber on the ground as possible before those blasted tree-huggers can
 upbraid you for the senseless slaughter of nature's precious children, or 
 whatever.
 
-- ⇨ +5 points in `Woodcutter`
+- ⇨ +5 points in `Wood Cutter`
 - ⇨ +5 points in `Carpenter`
 
-**6. Herbalist/Brewer**: 
+**6. Herbalist/Woodcrafter/Brewer**: 
 Nearly there. Another dwarf should get 5 points in each of
-herbalist and brewer. Although your dwarves absolutely 
+herbalist and woodcrafter. They will gather plants and make wooden pots. 
+When we arrive, they will also be the brewer.  Since this is a [no-quality](http://dwarffortresswiki.org/index.php/Item_quality "wikilink") 
+job, they can develop that skill after you arrive. Although your dwarves 
+absolutely 
 [MUST NOT](http://dwarffortresswiki.org/index.php/Thirst "wikilink") 
-run out of booze, for various reasons you
-won't want your brewer working 24/7 at first, so your brewer should
-have a fair bit of time to frolic in the meadows collecting posies
-of amaranths and baskets of apples to supplement your stocks while
-your fortress's farms are coming online.
+run out of booze, it should be easy for one dwarf to keep up with demand 
+while still being responsible for gathering plants and making the vessels.
 
+- ⇨ +5 points in `Wood Crafter`
 - ⇨ +5 points in `Herbalist`
-- ⇨ +5 points in `Brewer`
 
 **7. Farmer/Cook**:
 Now, it'll be a little while before you get farms and a kitchen up and
@@ -192,10 +198,10 @@ more things edible, and can add to dwarven happiness.
 
 
 Once you've assigned all these skills, you should have a few DBs left
-over (about 40). Go ahead, buy yourself something nice. Don't spend it all 
-in one place - but I will point out that despite my earlier nonchalance 
-about victuals, no fortress ever failed by having *too much* food 
-(including seeds) and booze…
+over (about 10 to 20 &#9788;, depending on initial food additions). 
+Go ahead, buy yourself something nice. Don't spend it all in one place - but 
+I will point out that despite my earlier nonchalance about victuals, no 
+fortress ever failed by having *too much* food (including seeds) and booze…
 
 ### Other considerations
 
