@@ -1,26 +1,5 @@
-Setting orders
---------------
-
-Before we unpause, there are a few forward-thinking things to do.
-
--   Change some [Standing orders](http://dwarffortresswiki.org/index.php/Standing_orders "wikilink"):
-    -   Only farmers arvest, so they level up faster
-    -   No ix food, for easier tracking of supplies
-    -   In the {{K|r}efuse section, dwarves should gather refuse from
-        utside, including ermin remains. This creates a little extra
-        work but keeping refuse tidied away reduces the
-        [Undead](http://dwarffortresswiki.org/index.php/Undead "wikilink") risk
-    -   Going back out with and then into the orbid section, dwarves
-        should claim used ammunition () and other death iems. We want
-        useful items and corpses squared away, and will ensure the
-        surface is not be accessible during moments of danger anyway
-    -   Finally, the orkshop orders: no auto oom, no auto collect ebs.
-        We want some thread left un-loomed for sutures, and collecting
-        webs from the caverns is too dangerous. It will become feasible
-        to change these options back later
-
-First Tasks
------------
+First Tasks and Standing Orders
+-------------------------------
 
 The first thing is to designate your wagon for removal, so you can use
 its logs. This is a task for your carpenter, so don't go distracting
