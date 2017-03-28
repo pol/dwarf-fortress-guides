@@ -225,6 +225,23 @@ is:
 
 Next, we'll make a 6x4 corpse stockpile, placed like so:
 
+```
+{{diagram|spaces=yes|\
+............
+.wwwwww====. = pasture/meeting zone
+.wwwwww====. w wood stockpile 
+.wwwwww====. c corpse stockpile
+.wwwwww====. 
+.wwwwww====.
+.wwwwww====.
+.cccccc====.
+.cccccc====.
+.cccccc====.
+.cccccc====.
+............
+}}
+```
+
 ![](images/4_corpse_stockpile.png "4_corpse_stockpile.png")
 
 In addition, go into the corpse stockpile settings and enable the
