@@ -238,7 +238,7 @@ is:
 }}
 ```
 
-![](3_wood_stockpile.png "3_wood_stockpile.png")
+![](images/3_wood_stockpile.png "3_wood_stockpile.png")
 
 - ⇨ Create a 6x6 `wood stockpile` over the centroid (and to the northwest).
 
@@ -246,7 +246,7 @@ is:
 
 Next, we'll make a 6x4 corpse stockpile, placed like so:
 
-![](4_corpse_stockpile.png "4_corpse_stockpile.png")
+![](images/4_corpse_stockpile.png "4_corpse_stockpile.png")
 
 In addition, go into the corpse stockpile settings and enable the
 [Refuse](http://dwarffortresswiki.org/index.php/Refuse "wikilink") category. However, only *some* refuse is
@@ -291,7 +291,7 @@ a 10x10 food stockpile, and place it like so:
 }}
 ```
 
-![](5_food_stockpile.png "5_food_stockpile.png")
+![](images/5_food_stockpile.png "5_food_stockpile.png")
 
 - ⇨ Create a 10x10 `food stockpile` to the east of the pasture.
 
