@@ -1,86 +1,147 @@
 Getting to work
 ---------------
 
-You can unpause the game now.
+As promised, you can unpause now. As an important aside, it's crucial to
+pause whenever you're ready to schedule more tasks, need to plan or
+think about something, and just generally whenever there's something
+you, as overseer, could be doing. As time in dwarf fortress marches on,
+the probability of a nasty visitor approaches 1, so try to always have a
+clear idea of your priorities and keep your dwarves busy. Often, it's
+best to read a section or two ahead and try to do enough things
+simultaneously that your dwarves aren't spending much time going idle.
+Don't overload them, though - you should be regularly clearing the
+backlog of hauling jobs and having dwarves going idle. Be aware that it
+can be hard to tell the difference between truly idle dwarves and those
+just trying to figure out what their next job is.
 
 - ⇨ Unpause the game.
+    - Be ready to pause whenever you need to schedule more tasks.
 
-Your miners should dig this out pretty quickly, especially if you have a
-few layers of soil so they're not digging straight down into rock.
-Still, after deconstructing the wagon and pasturing the livestock your
-other dwarves may find themselves milling about while they wait for the
-miners. Resist the urge to assign them busy-work such as chopping trees
-or collecting plants - that will come soon enough. But there *are* some
-jobs which should absolutely be done as soon as possible.
-
-#### Guard Dogs
-
-Once the first level of the stairwell is complete, build two ropes as restraints on the diagonal extending out from the inner corner and assign one of your war dogs to each rope. They can roam within 1 tile of the restraint, but no configuration leaves a gap for anything to sneak through:
-
-- ⇨ Build 2x `Restraint`s (`wool ropes`)
-- ⇨ Assign one male and one female `war dog` to the `wool ropes`.
-
-![](images/dog_placement.png "fig:dog_placement.png")
-
+When you unpause, your carpenter will begin deconstructing the wagon,
+and the others will begin dragging the appropriate animals to the
+pasture. Once the wagon is turned back into wagon wood, all your items
+will be strewn about. The miners will pick up their picks and start
+digging, while everyone else will start hauling items to the “everything
+stockpile” we designated to the right of the entrance. Your dogs, cat
+and peahens will make their way to the meeting area/pasture all by
+themselves. At the earliest opportunity, your woodcutter will pick up
+their axe and then resume hauling.
 
 #### Temporary Workshops
 
-Once the cart is deconstructed, make a `Carpenter's Workshop` from one
-of the logs. We will also need a `Metalsmith's Forge` (temporarily using our anvil) and a `Wood Furnace` to eventually build our gate. It's not too imporant where these go, they can be on the surface or, if things are looking dicey, in the stairwell. These are temporary, so it doesn't really matter where they go. By the time we get to ordering their construction, your miners should have some stone available to use.
+Once the wagon has been deconstructed, immediately use two of the wooden
+logs to build a carpenter's workshop and a craftsdwarf's workshop
+abutting the wood stockpile. 
 
-- ⇨ Build a temporary `Carpenter's Workshop`
+Once the cart is deconstructed, make a `Carpenter's Workshop` from one
+of the logs. We will also need a `Metalsmith's Forge` (temporarily using our 
+anvil) and a `Wood Furnace` to eventually build our gate. It's not too imporant 
+where these go, they can be on the surface or, if things are looking dicey, in 
+the ramp-spiral. These are temporary, so it doesn't really matter where they go. 
+By the time we get to ordering their construction, your miners should have some 
+stone available to use.
+
+- ⇨ Build a temporary `Carpenter's Workshop` next to the wood stockpile
+- ⇨ Build a temporary `Craftdwarf's Workshop` next to the wood stockpile
 - ⇨ Build a temporary `Metalsmith's Forge`
 - ⇨ Build a temporary `Wood Furnace`
 
-Once the `Carpenter's Workshop` is built, use that to make a wooden hatch from another log. Install the hatch over your one-tile, surface-level entrance.Congratulations! You now have a lockable front door. It won't stop thieves and building destroyers, but at least you can exclude a fair bit of dangerous stuff.
+When your carpenter has made these, order
+up a wooden hatch cover, and when it's finished, install it over the
+single channel tile which is the entrance to your fortress.
+Congratulations! You now have a lockable front door, though it won't
+hold up to thieves or building destroyers.
 
-- ⇨ Build a wooden `Hatch Cover` at the `Carpenter's Workshop` and install over the entrance channel.
+- ⇨ Order a `wooden hatch cover` at teh carpenter's workshop.
+- ⇨ Install the `woodent hatch cover` over the entrance to your fortress.
 
-If you've done all this and your miners still have a long ways to go, by
-all means designate a few nearby trees for felling and/or plants for
-gathering while you wait, but don't get carried away. You'll want a
-small, temporary stockpile nearby for the wood and food.  You could also set the Carpenter's Workshop to make a few beds from the logs.
+#### Guard Dogs
 
-- ⇨ Designate some trees for woodcutting
-- ⇨ Designate some plants for gathering
-- ⇨ Create a 4x4 food, wood, and finished goods surface stockpile
+Your miners should dig out the first two layers (z-levels -1 and -2)
+pretty quickly, since they are probably in soil. Once that is done,
+create a pasture on level -2 and assign the war dogs to it like so:
 
-Soon, however, your miners should be finished with the large 11 x 11
-room. Pause the game and fill the room with an “everything stockpile”
-for food, cloth, furniture, finished goods, and every other category of
-goods you brought with you. Exclude stone (which will just clutter it
-up), refuse and corpses (which will cause other objects to decay!).
-Remove any temporary stockpiles on the surface (except the corpse/refuse
-pile).
+```
+{{diagram|spaces=yes|\
+.........
+.+---+...
+.¦∇∇∇¦>>.
+.¦   ¦>C.
+.¦===∆¦.. war dog
+.¦===∆¦.. pasture
+.¦===∆¦..
+.+----+..
+.........
+}}
+```
+![](images/10_wardog_pasture.png "10_wardog_pasture.png")
 
-- ⇨ Create an everything stockpile in the 11x11 room (exclude `Stone`, `Wood`, `Refuse`, `Corpses`)
+- ⇨ Designate a 3x3 `Pasture` zone on level -2
+- ⇨ Assign the `war dogs` to the pasture.
 
-Then, in the same room, designate a 3 x 3 pasture and assign your blue
-peafowl, to keep them safely inside. It's bad to crowd animals, as they
-get aggressive, but unless you brought a bunch more non-grazing animals
-this small pasture should be enough. Finally, in the same room,
-designate an 8 x 8 zone for a meeting area which does not overlap with
-the pasture (again, crowding animals = bad). Idle dwarves will
-congregate here, safely underground. You can leave the cat without a
-pasture - it should mostly prowl around your stockpiled food, protecting
-it from vermin.
+Your war dogs will hang around here to sniff out and see off any
+sneaking thieves, and they won't block access for trade wagons, which
+can (somehow) just roll right over the top.
 
-- ⇨ Create a 3x3 `Pasture/Pen` zone in the 11x11 room. Assign the peahens and peacocks to it.
-- ⇨ Create an 8x8 `Meeting Area` zone in the 11x11 room.
+If you have a particularly deep soil horizon or your wagon was
+particularly far from the map centroid, your miners may finish their
+work before everything is hauled to the surface stockpile. If so, skip
+to the next section. If not, a little busy-work will give you a head
+start:
 
-Temporarily re-enable hauling labours on your miners so they can help
-bring stuff inside, cancel any wood-cutting or plant-gathering
-designations, and unpause. Your dwarves should rush
-to get everything into the stockpile. When that's done, you can pause
-again, and once again disable hauling for your miners.
+- ⇨ Designate all trees within a radius of about 21 tiles of the
+    entrance for felling
+    - ⇨ queue up `wooden bins` on repeat at the `carpenter's workshop`
+-   Queue up 10x `wooden pots` at the `craftsdwarf's workshop`, 
+    - ⇨ when pots are complete, designate about 10 plants nearby for gathering (then
+    repeat: pots then gathering)
 
-- ⇨ Pause the game.
-- ⇨ Re-enable `Hauling` on the Miners
-- ⇨ Disable `Woodcutting` and `Gathering`
-- ⇨ Unpause the game until everything is hauled inside
-- ⇨ Pause the game, disable `Hauling` on the Miners, next section!
+However, don't get carried away, because your miners shouldn't take
+*that* long, and the more you produce now the more you'll have to haul
+inside. A few idle dwarves are nothing to fear at this stage. In
+particular, don't designate massive areas because unfortunately dwarves
+aren't smart enough prioritise work from the inside out, and gravitate
+to the far corners. You can do this manually from the designation menu
+but it's overkill at this stage. In particular, beware of designating
+large quantities of plants for gathering. Your herbalist will continue
+gathering until they're *severely* encumbered, which slows things down
+rather a lot.
 
-<!-- is enabling hauling on the miners really necessary if we are going to make the farm next? -->
+Getting inside
+--------------
+
+Soon enough, your miners should be finished with the large storage room
+on level -10. Make a 10 x 10 stockpile here which accepts food,
+furniture, finished goods, and cloth, and set it to “take” from the
+rightmost stockpile on the surface (the large “everything” stockpile
+which began as a food stockpile). We've excluded weapons from this
+underground stockpile because your picks and axes are now all safely in
+dwarven hands.
+
+- ⇨ Create a stockpile in the 10x10 room set to accept: `food`, `furniture`,
+`finished goods`, and `cloth`.
+    - ⇨ Set the stockpile to "take" from the "everything stockpile" on the
+    surface (the large one to the east)
+
+In addition, overlay this 10 x 10 storage room with a 10 x 10 zone. Make
+it a meeting zone and a [Temple](http://dwarffortresswiki.org/Temple "wikilink") dedicated to no
+particular deity. In the surface zone which is a combination
+pasture/meeting zone, remove the meeting zone option. Your idle animals
+and dwarves will now hang out here, safely underground, and your dwarves
+have somewhere to pray or meditate when they feel the urge.
+
+- ⇨ Designate a 10x10 `Meeting Area` zone in the room, with a `l`ocation type of `Temple`.
+    - ⇨  Deselect `Meeting` from the surface zone.
+
+Cancel any tree-felling, carpentry or plant-gathering jobs and
+designations until everything is inside, and even temporarily re-enable
+hauling labours on your miners. Once everything is inside, disable
+hauling on your miners once again, then remove the large rightmost
+stockpile on the surface.
+
+Congratulations, you made it - your dwarves and most of their
+possessions are now behind a lockable door, and have begun digging out a
+proper fortress.
 
 Soil Farming
 ------------
