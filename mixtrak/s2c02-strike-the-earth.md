@@ -9,6 +9,7 @@ hauling labours (they need to focus!) and enable Brewing for your Herbalist/Wood
 - ⇨ Designate the wagon for removal (using `q`)
 - ⇨ Turn off Miners' [hauling labors](http://dwarffortresswiki.org/index.php/DF2014:Labor 'wikilink')
 - ⇨ Turn on [Brewing labor](http://dwarffortresswiki.org/index.php/Labor "wikilink") for your Herbalist/Woodcrafter
+- ⇨ Turn on `Wood Cutting` for your Herbalist/Woodcrafter
 
 Additionally, let's change some [Standing orders](http://dwarffortresswiki.org/index.php/Standing_orders "wikilink").  It's best of only the farmers are allowed to `h`arvest, so they level up faster.  No `m`ix food, for easier tracking of supplies. Dwarves should gather refuse from outside, including vermin remains.  This creates a little extra work, but keeping refuse tidied away reduces the
 [Undead](http://dwarffortresswiki.org/index.php/Undead "wikilink") risk. Going back out with `Esc` and then into the `F`orbid section, dwarves should claim used ammunition (`p`) and other death i`t`ems. We want useful items and corpses squared away, and will ensure that the surface is not accessible during mometns of danger anyway.  Finally, the `W`orkshop orders.  No auto `l`oom, no auto-collect `w`ebs. We want some thread left un-loomed for sutures, and collecting webs from the caverns is too dangerous. It will become feasible to change these options back later.
@@ -437,7 +438,7 @@ Once you've reached z-level -10, the designation is somewhat different:
 
 ![](images/9_central_stockpile.png "9_central_stockpile.png")
 
-- ⇨ `Mine` an 11x11 room centered on your fortress center, but including the 
+- ⇨ `Mine` an 10x10 room centered on your fortress center, but including the 
 continuation of the ramp `channel` to continue the spiral further.
     - **Do not** mine out the supporting stone behind the up-ramps!
     - Do mine out the centroid (the markers will be replaced when you designate
