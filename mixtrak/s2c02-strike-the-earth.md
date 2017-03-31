@@ -305,70 +305,147 @@ Striking the Earth
 
 <!-- pick up with the rest tomorrow. -->
 
+Alright, time to actually tell your miners what you want the fortress to
+look like. The design is quite complicated, but starts by digging down
+nice and deep.
+
+Generally, it's a good strategy to leave a large buffer zone of un-mined
+layers between the surface and your fort, for several reasons. In the
+layer immediately under the surface, tree roots penetrate the soil and
+felled trees leave gaps which are security vulnerabilities. You can
+patch them up but eventually the whole roof of soil will get replaced
+with paving, and that means no more trees or plants for you to harvest.
+Also, undermining murky pools and rivers results in annoying
+announcements and designation cancellations. You can override these, but
+if you get forgetful later on you risk accidentally puncturing the roof
+and flooding your fortress. But the final, and most important reason, is
+flexibility. If you want to dig a moat around your fortress entrance -
+and we will - having a buffer of un-mined layers avoids extensive
+fortress remodelling.
+
+The cost, of course, is time. Right now, your miners are at their least
+experienced, and progress through stone will be frustratingly slow. But
+unless - for example - there's a [Giant lion](http://dwarffortresswiki.org/index.php/Giant_lion "wikilink")
+bearing down on you *right now*, I think the benefits outweigh the
+costs.
+
+The layer below your entrance should look like this:
+
 Now it's time to go down a layer and designate the next set of digging,
 which should look like this:
 
-![](images/stairwell_1.png "stairwell_1.png")
+```
+{{diagram|spaces=yes|\
+.........
+..>>+-+..
+..>C¦∆¦..
+.¦∇    ¦.
+.¦∇    ¦.
+.¦∇    ¦.
+.+-----+.
+.........
+}}
+```
 
-Note that we're not mining directly under the channel - otherwise you
-risk mining away the up-ramps which channels produce and your miners
-will be stuck.
+![](images/6_ramp_1.png "6_ramp_1.png")
 
-We actually are going to repeat this pattern, spiralling down, for a few
-more layers. Generally, it's a good strategy to leave a buffer zone of
-un-mined layers between the surface and your fort, for several reasons.
-In the layer immediately under the surface, tree roots penetrate the
-soil and leave gaps which are security vulnerabilities when the trees
-are cut down. You can patch them up but eventually the whole roof of
-soil will be replaced with paving, and that means no more trees or
-plants for you to harvest. Also, undermining murky pools and rivers
-results in annoying announcements and designation cancellations. You can
-override these, but then you risk accidentally puncturing the roof and
-flooding your fortress. But the final, and most important reason, is
-flexibility. If you later want to dig a moat around your fortress
-entrance, having a buffer of un-mined layers avoids annoying fortress
-remodelling.
+Note that the centroid is not excavated (it is just marked, and should be designated with
+a different color than a normal mining designation). Also, you don't have to
+explicitly designate the up-ramps: they will appear when the channel in
+the z-level above is completed.
 
-That said, the guide is expecting that you will repeat the spiral ramp 
-pattern down until you are at least 5 layers beneath the lowest 
-water-point on the map **and** you have hit stone.  Depending on your site,
-you may have to go deeper than 5 layers. So the next
-layer would look like so:
+The next z-level down should look like this:
 
-![](images/stairwell_2.png "stairwell_2.png")
 
-And so on. This might seem like a lot more work than just digging a
-shaft, but it has advantages:
+```
+{{diagram|spaces=yes|\
+.........
+.+---+...
+.¦∇∇∇¦>>.
+.¦   ¦>C.
+.¦   ∆¦..
+.¦   ∆¦..
+.¦   ∆¦..
+.+----+..
+.........
+}}
+```
 
--   If you want to bring trade wagons inside at some later point, they
-    can get down the ramp
+![](images/7_ramp_2.png "7_ramp_2.png")
+
+And the next like this:
+
+```
+{{diagram|spaces=yes|\
+.........
+.+-----+.
+.¦    ∇¦.
+.¦    ∇¦.
+.¦    ∇¦.
+.¦∆∆∆¦>>.
+.+---+>C.
+.........
+}}
+```
+
+![](images/8_ramp_3.png "8_ramp_3.png")
+
+Noticing a pattern? We're creating a spiral ramp around the xy-origin.
+Continue the spiral down to z-level number -10 (i.e. 10 levels below the
+surface) and you have hit stone (you should have hit stone by -10, but if
+you haven't, keep digging). When viewing the z-level number, be aware that 
+it's calculated relative to ground level wherever the view is currently 
+centred, so it can change as you navigate around. If in doubt, count manually.
+
+- ⇨ Continue `mining` and `channeling` the spiral ramp down until you get to 
+a **depth of -10** *and* **you have hit stone**. 
+
+This might seem like a lot more work than just digging a straight shaft
+from up/down stairs, but it has advantages:
+
+-   Trade wagons can get down the ramp into the safety of your fortress
 -   Falling dwarves fall right *through* stairs, but not ramps
 -   The spiral design ensures that there's no consecutive layers of
-    mined tiles on top of one another, which means falling stone won't
-    punch a hole right down to the bottom of the shaft
--   Plenty of room for dwarves to move around and for any future needs
-    (decoration, levers, temporary stockpiles etc.)
+    mined tiles on top of one another, which means any accidental
+    [Cave-ins](http://dwarffortresswiki.org/index.php/Cave-in "wikilink") won't punch a hole right down to the
+    bottom of the shaft
+-   Plenty of room for dwarves to move around one another
 
-A little extra digging now will save you time and remodelling in the
-long run. A stitch in time, as they say.
+Again, a little extra digging now will save you time and remodelling in
+the long run. A stitch in time, as they say.
 
-- ⇨ Continue `mining` and `channeling` the spiral ramp down until at least **5 layers below the lowest water** and **you have hit stone**. 
+Once you've reached z-level -10, the designation is somewhat different:
 
-Once you're down deep enough, we're ready to actually begin
-digging the fortress blueprint. First, designate a large 11 x 11 room on
-the next level down, centred on the central map tile:
+```
+{{diagram|spaces=yes|\
+..............
+.+----------+.
+.¦          ¦.
+.¦          ¦.
+.¦          ¦.
+.¦          ¦.
+.¦ ∇∇∇>>    ¦.
+.¦    >C    ¦.
+.¦    ∆█    ¦.
+.¦    ∆█    ¦.
+.¦    ∆█    ¦.
+.¦          ¦.
+.+----------+.
+..............
+}}
+```
 
-![](images/central_room.png "central_room.png")
+![](images/9_central_stockpile.png "9_central_stockpile.png")
 
-In that diagram and all diagrams going forward, I've replaced the
-channelling designations with triangles pointing down, because that's
-how they'll look when they're ramps. Similarly, completed up-ramps look
-like up-triangles, but you don't have to designate these - they'll be
-automatically created when the layer above gets channelled. Make sure
-the location of up and down ramps on each level lines up! Those three
-dark squares are un-designated because they provide support and are
-necessary for the ramps to function. It's a little confusing, so go read
-[Ramp](http://dwarffortresswiki.org/index.php/Ramp "wikilink") and [http://dwarffortresswiki.org/index.php/Channel](Channel "wikilink") if you're not
-following.
+- ⇨ `Mine` an 11x11 room centered on your fortress center, but including the 
+continuation of the ramp `channel` to continue the spiral further.
+    - **Do not** mine out the supporting stone behind the up-ramps!
+    - Do mine out the centroid (the markers will be replaced when you designate
+    the area for mining).
 
-- ⇨ `Mine` an 11x11 room centered on your fortress center, but including the ramp `channel` to continue the spiral further.
+Again, remember not to designate any mining actions on the up-ramp tiles
+- they'll appear when [Channelled](http://dwarffortresswiki.org/index.php/Channel "wikilink") from above. In
+addition, don't mine the three tiles directly behind the up-ramps, which
+are needed for the [Ramps](http://dwarffortresswiki.org/index.php/Ramp "wikilink") to work. We are, however,
+going to mine out the tiles around the centroid (the four xy-origin tiles).
+
